@@ -1,0 +1,82 @@
+{
+        "st1": {
+            "id": "1",
+            "name": "East",
+            "shortname": "East",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st2": {
+            "id": "2",
+            "name": "Memphis / Shelby Co.",
+            "shortname": "Memphis\nShelby Co.",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st3": {
+            "id": "3",
+            "name": "Mid Cumberland",
+            "shortname": "Mid Cumberland",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st4": {
+            "id": "4",
+            "name": "Northeast",
+            "shortname": "Northeast",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st5": {
+            "id": "5",
+            "name": "Rural West",
+            "shortname": "Rural West",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st6": {
+            "id": "6",
+            "name": "South Central",
+            "shortname": "South Central",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st7": {
+            "id": "7",
+            "name": "Southeast",
+            "shortname": "Southeast",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st8": {
+            "id": "8",
+            "name": "Upper Cumberland",
+            "shortname": "Upper\nCumberland",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        }
+}

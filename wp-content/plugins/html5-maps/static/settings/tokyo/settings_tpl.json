@@ -1,0 +1,532 @@
+{
+    "st1": {
+        "id": 1,
+        "name": "Adachi",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st2": {
+        "id": 2,
+        "name": "Akiruno",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st3": {
+        "id": 3,
+        "name": "Akishima",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st4": {
+        "id": 4,
+        "name": "Arakawa",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st5": {
+        "id": 5,
+        "name": "Bunkyō",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st6": {
+        "id": 6,
+        "name": "Chiyoda",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st7": {
+        "id": 7,
+        "name": "Chōfu",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st8": {
+        "id": 8,
+        "name": "Chūō",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st9": {
+        "id": 9,
+        "name": "Edogawa",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st10": {
+        "id": 10,
+        "name": "Fuchū",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st11": {
+        "id": 11,
+        "name": "Fussa",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st12": {
+        "id": 12,
+        "name": "Hachiōji",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st13": {
+        "id": 13,
+        "name": "Hamura",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st14": {
+        "id": 14,
+        "name": "Higashikurume",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st15": {
+        "id": 15,
+        "name": "Higashimurayama",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st16": {
+        "id": 16,
+        "name": "Higashiyamato",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st17": {
+        "id": 17,
+        "name": "Hino",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st18": {
+        "id": 18,
+        "name": "Hinode",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st19": {
+        "id": 19,
+        "name": "Hinohara",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st20": {
+        "id": 20,
+        "name": "Inagi",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st21": {
+        "id": 21,
+        "name": "Itabashi",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st22": {
+        "id": 22,
+        "name": "Katsushika",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st23": {
+        "id": 23,
+        "name": "Kita",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st24": {
+        "id": 24,
+        "name": "Kiyose",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st25": {
+        "id": 25,
+        "name": "Kodaira",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st26": {
+        "id": 26,
+        "name": "Koganei",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st27": {
+        "id": 27,
+        "name": "Kokubunji",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st28": {
+        "id": 28,
+        "name": "Komae",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st29": {
+        "id": 29,
+        "name": "Kōtō",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st30": {
+        "id": 30,
+        "name": "Kunitachi",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st31": {
+        "id": 31,
+        "name": "Machida",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st32": {
+        "id": 32,
+        "name": "Meguro",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st33": {
+        "id": 33,
+        "name": "Minato",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st34": {
+        "id": 34,
+        "name": "Mitaka",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st35": {
+        "id": 35,
+        "name": "Mizuho",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st36": {
+        "id": 36,
+        "name": "Musashimurayama",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st37": {
+        "id": 37,
+        "name": "Musashino",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st38": {
+        "id": 38,
+        "name": "Nakano",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st39": {
+        "id": 39,
+        "name": "Nerima",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st40": {
+        "id": 40,
+        "name": "Nishitōkyō",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st41": {
+        "id": 41,
+        "name": "Okutama",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st42": {
+        "id": 42,
+        "name": "Ōme",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st43": {
+        "id": 43,
+        "name": "Ōta",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st44": {
+        "id": 44,
+        "name": "Setagaya",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st45": {
+        "id": 45,
+        "name": "Shibuya",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st46": {
+        "id": 46,
+        "name": "Shinagawa",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st47": {
+        "id": 47,
+        "name": "Shinjuku",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st48": {
+        "id": 48,
+        "name": "Suginami",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st49": {
+        "id": 49,
+        "name": "Sumida",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st50": {
+        "id": 50,
+        "name": "Tachikawa",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st51": {
+        "id": 51,
+        "name": "Taitō",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st52": {
+        "id": 52,
+        "name": "Tama",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st53": {
+        "id": 53,
+        "name": "Toshima",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    }
+}

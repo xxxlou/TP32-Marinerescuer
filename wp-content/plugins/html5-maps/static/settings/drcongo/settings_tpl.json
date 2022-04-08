@@ -1,0 +1,112 @@
+{
+    "st1": {
+        "id": 1,
+        "name": "Bandundu",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st2": {
+        "id": 2,
+        "name": "Bas-Congo",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st3": {
+        "id": 3,
+        "name": "Équateur",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st4": {
+        "id": 4,
+        "name": "Kasaï-Occidental",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st5": {
+        "id": 5,
+        "name": "Kasaï-Oriental",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st6": {
+        "id": 6,
+        "name": "Katanga",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st7": {
+        "id": 7,
+        "name": "Kinshasa City",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st8": {
+        "id": 8,
+        "name": "Maniema",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st9": {
+        "id": 9,
+        "name": "Nord-Kivu",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st10": {
+        "id": 10,
+        "name": "Orientale",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    },
+    "st11": {
+        "id": 11,
+        "name": "Sud-Kivu",
+        "shortname": "",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798bb",
+        "color_map_over": "#366CA3"
+    }
+}

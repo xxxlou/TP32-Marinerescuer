@@ -1,0 +1,203 @@
+{
+        "st1": {
+            "id": "1",
+            "name": "Bács-Kiskun",
+            "shortname": "Bács-Kiskun",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st2": {
+            "id": "2",
+            "name": "Baranya",
+            "shortname": "Baranya",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st3": {
+            "id": "3",
+            "name": "Békés",
+            "shortname": "Békés",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st4": {
+            "id": "4",
+            "name": "Borsod-Abaúj-Zemplén",
+            "shortname": "Borsod-Abaúj-Zemplén",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st5": {
+            "id": "5",
+            "name": "Budapest",
+            "shortname": "Budapest",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st6": {
+            "id": "6",
+            "name": "Csongrád",
+            "shortname": "Csongrád",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st7": {
+            "id": "7",
+            "name": "Fejér",
+            "shortname": "Fejér",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st8": {
+            "id": "8",
+            "name": "Gyor-Moson-Sopron",
+            "shortname": "Gyor-Moson-Sopron",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st9": {
+            "id": "9",
+            "name": "Hajdú-Bihar",
+            "shortname": "Hajdú-Bihar",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st10": {
+            "id": "10",
+            "name": "Heves",
+            "shortname": "Heves",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st11": {
+            "id": "11",
+            "name": "Jász-Nagykun-Szolnok",
+            "shortname": "Jász-Nagykun-Szolnok",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st12": {
+            "id": "12",
+            "name": "Komárom-Esztergom",
+            "shortname": "Komárom-Esztergom",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st13": {
+            "id": "13",
+            "name": "Nógrád",
+            "shortname": "Nógrád",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st14": {
+            "id": "14",
+            "name": "Pest",
+            "shortname": "Pest",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st15": {
+            "id": "15",
+            "name": "Somogy",
+
+            "shortname": "Somogy",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st16": {
+            "id": "16",
+            "name": "Szabolcs-Szatmár-Bereg",
+            "shortname": "Szabolcs-Szatmár-Bereg",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st17": {
+            "id": "17",
+            "name": "Tolna",
+            "shortname": "Tolna",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st18": {
+            "id": "18",
+            "name": "Vas",
+            "shortname": "Vas",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st19": {
+            "id": "19",
+            "name": "Veszprém",
+            "shortname": "Veszprém",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st20": {
+            "id": "20",
+            "name": "Zala",
+            "shortname": "Zala",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        }
+}

@@ -1,0 +1,102 @@
+{
+        "st1": {
+            "id": "1",
+            "name": "Detroit Metro",
+            "shortname": "Detroit\nMetro",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st2": {
+            "id": "2",
+            "name": "East Central",
+            "shortname": "East\nCentral",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st3": {
+            "id": "3",
+            "name": "East",
+            "shortname": "East",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st4": {
+            "id": "4",
+            "name": "Northeast",
+            "shortname": "Northeast",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st5": {
+            "id": "5",
+            "name": "Northwest",
+            "shortname": "Northwest",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st6": {
+            "id": "6",
+            "name": "South Central",
+            "shortname": "South\nCentral",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st7": {
+            "id": "7",
+            "name": "Southeast",
+            "shortname": "Southeast",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st8": {
+            "id": "8",
+            "name": "Southwest",
+            "shortname": "Southwest",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st9": {
+            "id": "9",
+            "name": "Upper Peninsula",
+            "shortname": "Upper Peninsula",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st10": {
+            "id": "10",
+            "name": "West",
+            "shortname": "West",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        }
+}

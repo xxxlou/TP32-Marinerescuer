@@ -1,0 +1,332 @@
+{
+    "st1": {
+        "id": 1,
+        "name": "Barking & Dagenham",
+        "shortname": "Barking &\nDagenham",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st2": {
+        "id": 2,
+        "name": "Barnet",
+        "shortname": "Barnet",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st3": {
+        "id": 3,
+        "name": "Bexley",
+        "shortname": "Bexley",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st4": {
+        "id": 4,
+        "name": "Brent",
+        "shortname": "Brent",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st5": {
+        "id": 5,
+        "name": "Bromley",
+        "shortname": "Bromley",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st6": {
+        "id": 6,
+        "name": "Camden",
+        "shortname": "Camden",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st7": {
+        "id": 7,
+        "name": "City of London",
+        "shortname": "City",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st8": {
+        "id": 8,
+        "name": "Croydon",
+        "shortname": "Croydon",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st9": {
+        "id": 9,
+        "name": "Ealing",
+        "shortname": "Ealing",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st10": {
+        "id": 10,
+        "name": "Enfield",
+        "shortname": "Enfield",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st11": {
+        "id": 11,
+        "name": "Greenwich",
+        "shortname": "Greenwich",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st12": {
+        "id": 12,
+        "name": "Hackney",
+        "shortname": "Hackney",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st13": {
+        "id": 13,
+        "name": "Hammersmith & Fulham",
+        "shortname": "Hammersmith\n& Fulham",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st14": {
+        "id": 14,
+        "name": "Haringey",
+        "shortname": "Haringey",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st15": {
+        "id": 15,
+        "name": "Harrow",
+        "shortname": "Harrow",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st16": {
+        "id": 16,
+        "name": "Havering",
+        "shortname": "Havering",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st17": {
+        "id": 17,
+        "name": "Hillingdon",
+        "shortname": "Hillingdon",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st18": {
+        "id": 18,
+        "name": "Hounslow",
+        "shortname": "Hounslow",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st19": {
+        "id": 19,
+        "name": "Islington",
+        "shortname": "Islington",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st20": {
+        "id": 20,
+        "name": "Kensington & Chelsea",
+        "shortname": "Kensington & Chelsea",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st21": {
+        "id": 21,
+        "name": "Kingston",
+        "shortname": "Kingston",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st22": {
+        "id": 22,
+        "name": "Lambeth",
+        "shortname": "Lambeth",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st23": {
+        "id": 23,
+        "name": "Lewisham",
+        "shortname": "Lewisham",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st24": {
+        "id": 24,
+        "name": "Merton",
+        "shortname": "Merton",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st25": {
+        "id": 25,
+        "name": "Newham",
+        "shortname": "Newham",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st26": {
+        "id": 26,
+        "name": "Redbridge",
+        "shortname": "Redbridge",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st27": {
+        "id": 27,
+        "name": "Richmond",
+        "shortname": "Richmond",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st28": {
+        "id": 28,
+        "name": "Southwark",
+        "shortname": "Southwark",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st29": {
+        "id": 29,
+        "name": "Sutton",
+        "shortname": "Sutton",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st30": {
+        "id": 30,
+        "name": "Tower Hamlets",
+        "shortname": "Tower \nHamlets",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st31": {
+        "id": 31,
+        "name": "Waltham Forest",
+        "shortname": "Waltham \nForest",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st32": {
+        "id": 32,
+        "name": "Wandsworth",
+        "shortname": "Wandsworth",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    },
+    "st33": {
+        "id": 33,
+        "name": "Westminster",
+        "shortname": "Westminster",
+        "link": "",
+        "comment": "",
+        "image": "",
+        "color_map": "#7798BA",
+        "color_map_over": "#366CA3"
+    }
+}

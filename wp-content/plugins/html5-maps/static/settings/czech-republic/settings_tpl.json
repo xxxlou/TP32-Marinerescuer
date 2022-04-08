@@ -1,0 +1,142 @@
+{
+        "st1": {
+            "id": "1",
+            "name": "Central Bohemian",
+            "shortname": "Central Bohemian",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st2": {
+            "id": "2",
+            "name": "Hradec Králové",
+            "shortname": "Hradec Králové",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st3": {
+            "id": "3",
+            "name": "Karlovy Vary",
+            "shortname": "Karlovy Vary",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st4": {
+            "id": "4",
+            "name": "Liberec",
+            "shortname": "Liberec",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st5": {
+            "id": "5",
+            "name": "Moravian-Silesian",
+            "shortname": "Moravian-Silesian",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st6": {
+            "id": "6",
+            "name": "Olomouc",
+            "shortname": "Olomouc",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st7": {
+            "id": "7",
+            "name": "Pardubice",
+            "shortname": "Pardubice",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st8": {
+            "id": "8",
+            "name": "Plzeň",
+            "shortname": "Plzeň",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st9": {
+            "id": "9",
+            "name": "Prague",
+            "shortname": "Prague",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st10": {
+            "id": "10",
+            "name": "South Bohemian",
+            "shortname": "South Bohemian",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st11": {
+            "id": "11",
+            "name": "South Moravian",
+            "shortname": "South Moravian",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st12": {
+            "id": "12",
+            "name": "Ústí nad Labem",
+            "shortname": "Ústí nad Labem",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st13": {
+            "id": "13",
+            "name": "Vysočina",
+            "shortname": "Vysočina",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st14": {
+            "id": "14",
+            "name": "Zlín",
+            "shortname": "Zlín",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        }
+}

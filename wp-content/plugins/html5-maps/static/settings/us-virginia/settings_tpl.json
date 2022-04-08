@@ -1,0 +1,82 @@
+{
+        "st1": {
+            "id": "1",
+            "name": "Central",
+            "shortname": "Central",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st2": {
+            "id": "2",
+            "name": "Eastern",
+            "shortname": "Eastern",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st3": {
+            "id": "3",
+            "name": "Hampton Roads",
+            "shortname": "Hampton\nRoads",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st4": {
+            "id": "4",
+            "name": "Northern",
+            "shortname": "Northern",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st5": {
+            "id": "5",
+            "name": "Southside",
+            "shortname": "Southside",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st6": {
+            "id": "6",
+            "name": "Southwest",
+            "shortname": "Southwest",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st7": {
+            "id": "7",
+            "name": "Valley",
+            "shortname": "Valley",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st8": {
+            "id": "8",
+            "name": "West central",
+            "shortname": "West central",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        }
+}

@@ -1,0 +1,92 @@
+{
+        "st1": {
+            "id": "1",
+            "name": "Eastern Panhandle",
+            "shortname": "Eastern\nPanhandle",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st2": {
+            "id": "2",
+            "name": "Hatfield McCoy Mountains",
+            "shortname": "Hatfield McCoy\nMountains",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st3": {
+            "id": "3",
+            "name": "Metro Valley",
+            "shortname": "Metro Valley",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st4": {
+            "id": "4",
+            "name": "Mid Ohio Valley",
+            "shortname": "Mid Ohio\nValley",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st5": {
+            "id": "5",
+            "name": "Mountain Lakes",
+            "shortname": "Mountain\nLakes",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st6": {
+            "id": "6",
+            "name": "Mountaineer Country",
+            "shortname": "Mountaineer Country",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st7": {
+            "id": "7",
+            "name": "New River Greenbrier Valley",
+            "shortname": "New River\nGreenbrier Valley",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st8": {
+            "id": "8",
+            "name": "Northern Panhandle",
+            "shortname": "Northern\nPanhandle",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st9": {
+            "id": "9",
+            "name": "Potomac Highlands",
+            "shortname": "Potomac\nHighlands",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        }
+}

@@ -1,0 +1,162 @@
+{
+    "st1": {
+   	 	"id": 1,
+		"name": "Baden-Württemberg",
+		"shortname": "Baden-Württemberg",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st2": {
+   	 	"id": 2,
+		"name": "Bavaria",
+		"shortname": "Bavaria",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st3": {
+   	 	"id": 3,
+		"name": "Berlin",
+		"shortname": "Berlin",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st4": {
+   	 	"id": 4,
+		"name": "Brandenburg",
+		"shortname": "Brandenburg",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st5": {
+   	 	"id": 5,
+		"name": "Bremen",
+		"shortname": "Bremen",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st6": {
+   	 	"id": 6,
+		"name": "Hamburg",
+		"shortname": "Hamburg",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st7": {
+   	 	"id": 7,
+		"name": "Hesse",
+		"shortname": "Hesse",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st8": {
+   	 	"id": 8,
+		"name": "Lower Saxony",
+		"shortname": "Lower Saxony",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st9": {
+   	 	"id": 9,
+		"name": "Mecklenburg-Vorpommern",
+		"shortname": "Mecklenburg-Vorpommern",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st10": {
+   	 	"id": 10,
+		"name": "North Rhine-Westphalia",
+		"shortname": "North Rhine-Westphalia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st11": {
+   	 	"id": 11,
+		"name": "Rhineland-Palatinate",
+		"shortname": "Rhineland-Palatinate",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st12": {
+   	 	"id": 12,
+		"name": "Saarland",
+		"shortname": "Saarland",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st13": {
+   	 	"id": 13,
+		"name": "Saxony",
+		"shortname": "Saxony",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st14": {
+   	 	"id": 14,
+		"name": "Saxony-Anhalt",
+		"shortname": "Saxony-Anhalt",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st15": {
+   	 	"id": 15,
+		"name": "Schleswig-Holstein",
+		"shortname": "Schleswig-Holstein",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st16": {
+   	 	"id": 16,
+		"name": "Thuringia",
+		"shortname": "Thuringia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	}
+}

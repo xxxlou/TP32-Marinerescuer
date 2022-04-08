@@ -1,0 +1,202 @@
+{
+    "st1": {
+   	 	"id": 1,
+		"name": "Abruzzo",
+		"shortname": "Abruzzo",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st2": {
+   	 	"id": 2,
+		"name": "Basilicata",
+		"shortname": "Basilicata",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st3": {
+   	 	"id": 3,
+		"name": "Calabria",
+		"shortname": "Calabria",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st4": {
+   	 	"id": 4,
+		"name": "Campania",
+		"shortname": "Campania",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st5": {
+   	 	"id": 5,
+		"name": "Emilia - Romagna",
+		"shortname": "Emilia - Romagna",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st6": {
+   	 	"id": 6,
+		"name": "Friuli - Venezia Giulia",
+		"shortname": "Friuli - Venezia Giulia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st7": {
+   	 	"id": 7,
+		"name": "Lazio",
+		"shortname": "Lazio",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st8": {
+   	 	"id": 8,
+		"name": "Liguria",
+		"shortname": "Liguria",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st9": {
+   	 	"id": 9,
+		"name": "Lombardia",
+		"shortname": "Lombardia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st10": {
+   	 	"id": 10,
+		"name": "Marche",
+		"shortname": "Marche",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st11": {
+   	 	"id": 11,
+		"name": "Molise",
+		"shortname": "Molise",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st12": {
+   	 	"id": 12,
+		"name": "Piemonte",
+		"shortname": "Piemonte",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st13": {
+   	 	"id": 13,
+		"name": "Puglia",
+		"shortname": "Puglia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st14": {
+   	 	"id": 14,
+		"name": "Sardegna",
+		"shortname": "Sardegna",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st15": {
+   	 	"id": 15,
+		"name": "Sicilia",
+		"shortname": "Sicilia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st16": {
+   	 	"id": 16,
+		"name": "Toscana",
+		"shortname": "Toscana",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st17": {
+   	 	"id": 17,
+		"name": "Trentino - Alto Adige",
+		"shortname": "Trentino - Alto Adige",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st18": {
+   	 	"id": 18,
+		"name": "Umbria",
+		"shortname": "Umbria",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st19": {
+   	 	"id": 19,
+		"name": "Valle d'Aosta",
+		"shortname": "Valle d'Aosta",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st20": {
+   	 	"id": 20,
+		"name": "Veneto",
+		"shortname": "Veneto",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	}
+}

@@ -1,0 +1,212 @@
+{
+        "st1": {
+            "id": "1",
+            "name": "Dubrovnik-Neretva",
+            "shortname": "Dubrovnik-Neretva",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st2": {
+            "id": "2",
+            "name": "Split-Dalmatia",
+            "shortname": "Split-Dalmatia",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st3": {
+            "id": "3",
+            "name": "Šibenik-Knin",
+            "shortname": "Šibenik-Knin",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st4": {
+            "id": "4",
+            "name": "Zadar",
+            "shortname": "Zadar",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st5": {
+            "id": "5",
+            "name": "Lika-Senj",
+            "shortname": "Lika-Senj",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st6": {
+            "id": "6",
+            "name": "Brod-Posavina",
+            "shortname": "Brod-Posavina",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st7": {
+            "id": "7",
+            "name": "Vukovar-Srijem",
+            "shortname": "Vukovar-Srijem",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st8": {
+            "id": "8",
+            "name": "Istria",
+            "shortname": "Istria",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st9": {
+            "id": "9",
+            "name": "Požega-Slavonia",
+            "shortname": "Požega-Slavonia",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st10": {
+            "id": "10",
+            "name": "Sisak-Moslavina",
+            "shortname": "Sisak-Moslavina",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st11": {
+            "id": "11",
+            "name": "Primorje-Gorski Kotar",
+            "shortname": "Primorje-Gorski Kotar",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st12": {
+            "id": "12",
+            "name": "Karlovac",
+            "shortname": "Karlovac",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st13": {
+            "id": "13",
+            "name": "Osijek-Baranja",
+            "shortname": "Osijek-Baranja",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st14": {
+            "id": "14",
+            "name": "City of Zagreb",
+            "shortname": "City of Zagreb",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st15": {
+            "id": "15",
+            "name": "Virovitica-Podravina",
+            "shortname": "Virovitica-Podravina",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st16": {
+            "id": "16",
+            "name": "Zagreb County",
+            "shortname": "Zagreb County",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st17": {
+            "id": "17",
+            "name": "Bjelovar-Bilogora",
+            "shortname": "Bjelovar-Bilogora",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st18": {
+            "id": "18",
+            "name": "Krapina-Zagorje",
+            "shortname": "Krapina-Zagorje",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st19": {
+            "id": "19",
+            "name": "Koprivnica-Križevci",
+            "shortname": "Koprivnica-Križevci",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st20": {
+            "id": "20",
+            "name": "Varaždin",
+            "shortname": "Varaždin",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st21": {
+            "id": "21",
+            "name": "Medimurje",
+            "shortname": "Medimurje",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        }
+}

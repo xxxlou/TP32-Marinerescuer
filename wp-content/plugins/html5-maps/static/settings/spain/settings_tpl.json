@@ -1,0 +1,172 @@
+{
+    "st1": {
+   	 	"id": 1,
+		"name": "Andalusia",
+		"shortname": "Andalusia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st2": {
+   	 	"id": 2,
+		"name": "Aragon",
+		"shortname": "Aragon",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st3": {
+   	 	"id": 3,
+		"name": "Asturias",
+		"shortname": "Asturias",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st4": {
+   	 	"id": 4,
+		"name": "Balearic Islands",
+		"shortname": "Balearic Islands",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st5": {
+   	 	"id": 5,
+		"name": "Basque Country",
+		"shortname": "Basque Country",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st6": {
+   	 	"id": 6,
+		"name": "Canary Islands",
+		"shortname": "Canary Islands",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st7": {
+   	 	"id": 7,
+		"name": "Cantabria",
+		"shortname": "Cantabria",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st8": {
+   	 	"id": 8,
+		"name": "Castile and Leon",
+		"shortname": "Castile and Leon",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st9": {
+   	 	"id": 9,
+		"name": "Castille-La Mancha",
+		"shortname": "Castille-La Mancha",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st10": {
+   	 	"id": 10,
+		"name": "Catalonia",
+		"shortname": "Catalonia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st11": {
+   	 	"id": 11,
+		"name": "Extremadura",
+		"shortname": "Extremadura",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st12": {
+   	 	"id": 12,
+		"name": "Galicia",
+		"shortname": "Galicia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st13": {
+   	 	"id": 13,
+		"name": "La Rioja",
+		"shortname": "La Rioja",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st14": {
+   	 	"id": 14,
+		"name": "Madrid",
+		"shortname": "Madrid",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st15": {
+   	 	"id": 15,
+		"name": "Murcia",
+		"shortname": "Murcia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st16": {
+   	 	"id": 16,
+		"name": "Navarre",
+		"shortname": "Navarre",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st17": {
+   	 	"id": 17,
+		"name": "Valencia",
+		"shortname": "Valencia",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	}
+}

@@ -1,0 +1,66 @@
+@import "@bootstrap/functions";
+@import "bootstrap_variables";
+@import "@bootstrap/mixins";
+@import "@bootstrap/utilities";
+@import "@bootstrap/grid";
+@import "@bootstrap/buttons";
+@import "@bootstrap/card";
+@import "@bootstrap/alert";
+@import "@bootstrap/media";
+@import "../../inc/vk-components/package/_scss/vk-components.scss";
+@import "variables";
+@import "common";
+@import "common-editor";
+@import "utils";
+
+@import "block/block";
+@import "block/block-editor";
+@import "block/block_editor_width";
+
+@import "components/nav";
+@import "components/searchform";
+@import "overwrite/vk-components";
+@import "overwrite/button";
+@import "overwrite/swiper";
+@import "project/pagenation";
+
+.edit-post-meta-boxes-area {
+    h4 {
+        display: block;
+        overflow: hidden;
+        font-size:14px;
+        margin-top: 1em;
+        margin-bottom: 0.3em;
+        padding: 0;
+		background:none;
+    }
+	ul{
+		padding-left:0;
+	}
+    input[type=date], 
+    input[type=email], 
+    input[type=number], 
+    input[type=tel], 
+    input[type=text], 
+    input[type=url], 
+    select,
+    textarea {
+        box-sizing: border-box;
+    }
+}
+
+//common.scssで編集画面のCSSが打ち消されるので以下追加
+.interface-interface-skeleton__sidebar{
+    font-size: 13px;
+}
+.components-datetime__time-field-day-input[type=number],
+.components-datetime__time-field-hours-input[type=number], 
+.components-datetime__time-field-minutes-input[type=number] {
+    width: 35px;
+}
+// カスタマイズ画面にまで公開の input が適用されて padding が余計についてしまうので調整
+.wp-full-overlay-sidebar-content {
+    input[type=date], input[type=email], input[type=number], input[type=tel], input[type=text], input[type=url], select, textarea {
+        padding:.2em .5em;
+    }
+}

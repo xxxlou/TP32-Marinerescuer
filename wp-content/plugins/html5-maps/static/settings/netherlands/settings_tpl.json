@@ -1,0 +1,122 @@
+{
+    "st1": {
+   	 	"id": 1,
+		"name": "Drenthe",
+		"shortname": "Drenthe",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st2": {
+   	 	"id": 2,
+		"name": "Flevoland",
+		"shortname": "Flevoland",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st3": {
+   	 	"id": 3,
+		"name": "Friesland",
+		"shortname": "Friesland",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st4": {
+   	 	"id": 4,
+		"name": "Gelderland",
+		"shortname": "Gelderland",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st5": {
+   	 	"id": 5,
+		"name": "Groningen",
+		"shortname": "Groningen",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st6": {
+   	 	"id": 6,
+		"name": "Limburg",
+		"shortname": "Limburg",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st7": {
+   	 	"id": 7,
+		"name": "North Brabant",
+		"shortname": "North Brabant",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st8": {
+   	 	"id": 8,
+		"name": "North Holland",
+		"shortname": "North Holland",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st9": {
+   	 	"id": 9,
+		"name": "Overijssel",
+		"shortname": "Overijssel",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st10": {
+   	 	"id": 10,
+		"name": "South Holland",
+		"shortname": "South Holland",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st11": {
+   	 	"id": 11,
+		"name": "Utrecht",
+		"shortname": "Utrecht",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st12": {
+   	 	"id": 12,
+		"name": "Zeeland",
+		"shortname": "Zeeland",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	}
+}

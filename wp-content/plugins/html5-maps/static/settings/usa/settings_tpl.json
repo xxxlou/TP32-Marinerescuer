@@ -1,0 +1,92 @@
+{
+    "st1": {
+   	 	"id": 1,
+		"name": "New England",
+		"shortname": "NEW\nENGLAND",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st2": {
+   	 	"id": 2,
+		"name": "Mid-Atlantic",
+		"shortname": "MID-ATLANTIC",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st3": {
+   	 	"id": 3,
+		"name": "East North Central",
+		"shortname": "EAST NORTH\nCENTRAL",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st4": {
+   	 	"id": 4,
+		"name": "West North Central",
+		"shortname": "WEST NORTH\nCENTRAL",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st5": {
+   	 	"id": 5,
+		"name": "South Atlantic",
+		"shortname": "SOUTH\nATLANTIC",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st6": {
+   	 	"id": 6,
+		"name": "East South Central",
+		"shortname": "EAST\nSOUTH\nCENTRAL",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st7": {
+   	 	"id": 7,
+		"name": "West South Central",
+		"shortname": "WEST SOUTH\nCENTRAL",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st8": {
+   	 	"id": 8,
+		"name": "Mountain",
+		"shortname": "MOUNTAIN",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st9": {
+   	 	"id": 9,
+		"name": "Pacific",
+		"shortname": "PACIFIC",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	}
+}

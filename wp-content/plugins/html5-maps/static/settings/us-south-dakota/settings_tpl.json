@@ -1,0 +1,42 @@
+{
+        "st1": {
+            "id": "1",
+            "name": "Black Hills and Badlands",
+            "shortname": "Black Hills and Badlands",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st2": {
+            "id": "2",
+            "name": "Glacial Lakes and Praries",
+            "shortname": "Glacial Lakes and Praries",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st3": {
+            "id": "3",
+            "name": "Great Lakes",
+            "shortname": "Great Lakes",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        },
+        "st4": {
+            "id": "4",
+            "name": "Southeast",
+            "shortname": "Southeast",
+            "link": "",
+            "comment": "",
+            "image": "",
+            "color_map": "#7798bb",
+            "color_map_over": "#366CA3"
+        }
+}

@@ -1,0 +1,771 @@
+{
+    "1": {
+     "group": "World",
+     "name": "World (countries)",
+     "name_html": "World (countries)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/world/countries/"
+     },
+    "2": {
+     "group": "World",
+     "name": "World (continents)",
+     "name_html": "World (continents)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/world/continents/"
+     },
+    "3": {
+     "group": "USA",
+     "name": "USA (states)",
+     "name_html": "USA (states)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/us/"
+     },
+    "4": {
+     "group": "USA",
+     "name": "USA and Canada",
+     "name_html": "USA and Canada",
+     "href": "https://www.fla-shop.com/products/wp-plugins/north-america/us-ca/"
+     },
+    "5": {
+     "group": "USA",
+     "name": "Alabama (counties)",
+     "name_html": "Alabama (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/al/"
+     },
+    "6": {
+     "group": "USA",
+     "name": "Alaska (counties)",
+     "name_html": "Alaska (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ak/"
+     },
+    "7": {
+     "group": "USA",
+     "name": "Arizona (counties)",
+     "name_html": "Arizona (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/az/"
+     },
+    "8": {
+     "group": "USA",
+     "name": "Arkansas (counties)",
+     "name_html": "Arkansas (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ar/"
+     },
+    "9": {
+     "group": "USA",
+     "name": "California (counties)",
+     "name_html": "California (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ca/"
+     },
+    "10": {
+     "group": "USA",
+     "name": "Colorado (counties)",
+     "name_html": "Colorado (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/co/"
+     },
+    "11": {
+     "group": "USA",
+     "name": "Connecticut (counties)",
+     "name_html": "Connecticut (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ct/"
+     },
+    "12": {
+     "group": "USA",
+     "name": "Delaware (counties)",
+     "name_html": "Delaware (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/de/"
+     },
+    "13": {
+     "group": "USA",
+     "name": "Florida (counties)",
+     "name_html": "Florida (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/fl/"
+     },
+    "14": {
+     "group": "USA",
+     "name": "Georgia (counties)",
+     "name_html": "Georgia (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ga/"
+     },
+    "15": {
+     "group": "USA",
+     "name": "Hawaii (counties)",
+     "name_html": "Hawaii (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/hi/"
+     },
+    "16": {
+     "group": "USA",
+     "name": "Idaho (counties)",
+     "name_html": "Idaho (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/id/"
+     },
+    "17": {
+     "group": "USA",
+     "name": "Illinois (counties)",
+     "name_html": "Illinois (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/il/"
+     },
+    "18": {
+     "group": "USA",
+     "name": "Indiana (counties)",
+     "name_html": "Indiana (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/in/"
+     },
+    "19": {
+     "group": "USA",
+     "name": "Iowa (counties)",
+     "name_html": "Iowa (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ia/"
+     },
+    "20": {
+     "group": "USA",
+     "name": "Kansas (counties)",
+     "name_html": "Kansas (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ks/"
+     },
+    "21": {
+     "group": "USA",
+     "name": "Kentucky (counties)",
+     "name_html": "Kentucky (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ky/"
+     },
+    "22": {
+     "group": "USA",
+     "name": "Louisiana (counties)",
+     "name_html": "Louisiana (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/la/"
+     },
+    "23": {
+     "group": "USA",
+     "name": "Maine (counties)",
+     "name_html": "Maine (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/me/"
+     },
+    "24": {
+     "group": "USA",
+     "name": "Maryland (counties)",
+     "name_html": "Maryland (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/md/"
+     },
+    "25": {
+     "group": "USA",
+     "name": "Massachusetts (counties)",
+     "name_html": "Massachusetts (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ma/"
+     },
+    "26": {
+     "group": "USA",
+     "name": "Michigan (counties)",
+     "name_html": "Michigan (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/mi/"
+     },
+    "27": {
+     "group": "USA",
+     "name": "Minnesota (counties)",
+     "name_html": "Minnesota (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/mn/"
+     },
+    "28": {
+     "group": "USA",
+     "name": "Mississippi (counties)",
+     "name_html": "Mississippi (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ms/"
+     },
+    "29": {
+     "group": "USA",
+     "name": "Missouri (counties)",
+     "name_html": "Missouri (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/mo/"
+     },
+    "30": {
+     "group": "USA",
+     "name": "Montana (counties)",
+     "name_html": "Montana (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/mt/"
+     },
+    "31": {
+     "group": "USA",
+     "name": "Nebraska (counties)",
+     "name_html": "Nebraska (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ne/"
+     },
+    "32": {
+     "group": "USA",
+     "name": "Nevada (counties)",
+     "name_html": "Nevada (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/nv/"
+     },
+    "33": {
+     "group": "USA",
+     "name": "New Hampshire (counties)",
+     "name_html": "New Hampshire (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/nh/"
+     },
+    "34": {
+     "group": "USA",
+     "name": "New Jersey (counties)",
+     "name_html": "New Jersey (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/nj/"
+     },
+    "35": {
+     "group": "USA",
+     "name": "New Mexico (counties)",
+     "name_html": "New Mexico (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/nm/"
+     },
+    "36": {
+     "group": "USA",
+     "name": "New York (counties)",
+     "name_html": "New York (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ny/"
+     },
+    "37": {
+     "group": "USA",
+     "name": "North Carolina (counties)",
+     "name_html": "North Carolina (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/nc/"
+     },
+    "38": {
+     "group": "USA",
+     "name": "North Dakota (counties)",
+     "name_html": "North Dakota (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/nd/"
+     },
+    "39": {
+     "group": "USA",
+     "name": "Ohio (counties)",
+     "name_html": "Ohio (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/oh/"
+     },
+    "40": {
+     "group": "USA",
+     "name": "Oklahoma (counties)",
+     "name_html": "Oklahoma (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ok/"
+     },
+    "41": {
+     "group": "USA",
+     "name": "Oregon (counties)",
+     "name_html": "Oregon (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/or/"
+     },
+    "42": {
+     "group": "USA",
+     "name": "Pennsylvania (counties)",
+     "name_html": "Pennsylvania (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/pa/"
+     },
+    "43": {
+     "group": "USA",
+     "name": "Rhode Island (counties)",
+     "name_html": "Rhode Island (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ri/"
+     },
+    "44": {
+     "group": "USA",
+     "name": "South Carolina (counties)",
+     "name_html": "South Carolina (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/sc/"
+     },
+    "45": {
+     "group": "USA",
+     "name": "South Dakota (counties)",
+     "name_html": "South Dakota (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/sd/"
+     },
+    "46": {
+     "group": "USA",
+     "name": "Tennessee (counties)",
+     "name_html": "Tennessee (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/tn/"
+     },
+    "47": {
+     "group": "USA",
+     "name": "Texas (counties)",
+     "name_html": "Texas (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/tx/"
+     },
+    "48": {
+     "group": "USA",
+     "name": "Utah (counties)",
+     "name_html": "Utah (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/ut/"
+     },
+    "49": {
+     "group": "USA",
+     "name": "Vermont (counties)",
+     "name_html": "Vermont (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/vt/"
+     },
+    "50": {
+     "group": "USA",
+     "name": "Virginia (counties)",
+     "name_html": "Virginia (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/va/"
+     },
+    "51": {
+     "group": "USA",
+     "name": "Washington (counties)",
+     "name_html": "Washington (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/wa/"
+     },
+    "52": {
+     "group": "USA",
+     "name": "West Virginia (counties)",
+     "name_html": "West Virginia (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/wv/"
+     },
+    "53": {
+     "group": "USA",
+     "name": "Wisconsin (counties)",
+     "name_html": "Wisconsin (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/wi/"
+     },
+    "54": {
+     "group": "USA",
+     "name": "Wyoming (counties)",
+     "name_html": "Wyoming (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/wy/"
+     },
+    "55": {
+     "group": "Continents",
+     "name": "Africa",
+     "name_html": "Africa",
+     "href": "https://www.fla-shop.com/products/wp-plugins/world/africa/"
+     },
+    "56": {
+     "group": "Continents",
+     "name": "Asia",
+     "name_html": "Asia",
+     "href": "https://www.fla-shop.com/products/wp-plugins/world/asia/"
+     },
+    "57": {
+     "group": "Continents",
+     "name": "Central America and Caribbean",
+     "name_html": "Central America and Caribbean",
+     "href": "https://www.fla-shop.com/products/wp-plugins/world/central-america/"
+     },
+    "58": {
+     "group": "Continents",
+     "name": "Europe",
+     "name_html": "Europe",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/europe/"
+     },
+    "59": {
+     "group": "Continents",
+     "name": "Middle East",
+     "name_html": "Middle East",
+     "href": "https://www.fla-shop.com/products/wp-plugins/world/middle-east/"
+     },
+    "60": {
+     "group": "Continents",
+     "name": "North America",
+     "name_html": "North America",
+     "href": "https://www.fla-shop.com/products/wp-plugins/world/north-america/"
+     },
+    "61": {
+     "group": "Continents",
+     "name": "Oceania",
+     "name_html": "Oceania",
+     "href": "https://www.fla-shop.com/products/wp-plugins/world/oceania/"
+     },
+    "62": {
+     "group": "Continents",
+     "name": "South America",
+     "name_html": "South America",
+     "href": "https://www.fla-shop.com/products/wp-plugins/world/south-america/"
+     },
+    "63": {
+     "group": "Europe",
+     "name": "Albania (counties)",
+     "name_html": "Albania (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/al/"
+     },
+    "64": {
+     "group": "Europe",
+     "name": "Andorra (parishes)",
+     "name_html": "Andorra (parishes)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/ad/"
+     },
+    "65": {
+     "group": "Europe",
+     "name": "Armenia (provinces)",
+     "name_html": "Armenia (provinces)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/am/"
+     },
+    "66": {
+     "group": "Europe",
+     "name": "Austria (states)",
+     "name_html": "Austria (states)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/at/"
+     },
+    "67": {
+     "group": "Europe",
+     "name": "Azerbaijan (regions)",
+     "name_html": "Azerbaijan (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/az/"
+     },
+    "68": {
+     "group": "Europe",
+     "name": "Belarus (regions)",
+     "name_html": "Belarus (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/by/"
+     },
+    "69": {
+     "group": "Europe",
+     "name": "Belgium (provinces)",
+     "name_html": "Belgium (provinces)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/be/"
+     },
+    "70": {
+     "group": "Europe",
+     "name": "Bosnia and Herzegovina (municipalities )",
+     "name_html": "Bosnia and Herzegovina (municipalities )",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/ba/"
+     },
+    "71": {
+     "group": "Europe",
+     "name": "Bulgaria (provinces)",
+     "name_html": "Bulgaria (provinces)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/bg/"
+     },
+    "72": {
+     "group": "Europe",
+     "name": "Croatia (counties)",
+     "name_html": "Croatia (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/hr/"
+     },
+    "73": {
+     "group": "Europe",
+     "name": "Cyprus (districts)",
+     "name_html": "Cyprus (districts)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/cy/"
+     },
+    "74": {
+     "group": "Europe",
+     "name": "Czech Republic (regions)",
+     "name_html": "Czech Republic (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/cz/"
+     },
+    "75": {
+     "group": "Europe",
+     "name": "Denmark (municipalities)",
+     "name_html": "Denmark (municipalities)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/dk/"
+     },
+    "76": {
+     "group": "Europe",
+     "name": "Estonia (counties)",
+     "name_html": "Estonia (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/ee/"
+     },
+    "77": {
+     "group": "Europe",
+     "name": "Finland (regions)",
+     "name_html": "Finland (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/fi/"
+     },
+    "78": {
+     "group": "Europe",
+     "name": "France (departments)",
+     "name_html": "France (departments)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/fr/"
+     },
+    "79": {
+     "group": "Europe",
+     "name": "France (regions)",
+     "name_html": "France (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/fr-regions-dom-tom/"
+     },
+    "80": {
+     "group": "Europe",
+     "name": "Georgia (regions)",
+     "name_html": "Georgia (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/ge/"
+     },
+    "81": {
+     "group": "Europe",
+     "name": "Germany (postcode areas)",
+     "name_html": "Germany (postcode areas)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/de-postcode/"
+     },
+    "82": {
+     "group": "Europe",
+     "name": "Germany (states)",
+     "name_html": "Germany (states)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/de/"
+     },
+    "83": {
+     "group": "Europe",
+     "name": "Greece (regions)",
+     "name_html": "Greece (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/gr/"
+     },
+    "84": {
+     "group": "Europe",
+     "name": "Hungary (counties)",
+     "name_html": "Hungary (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/hu/"
+     },
+    "85": {
+     "group": "Europe",
+     "name": "Iceland (regions)",
+     "name_html": "Iceland (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/is/"
+     },
+    "86": {
+     "group": "Europe",
+     "name": "Ireland (counties)",
+     "name_html": "Ireland (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/ie/"
+     },
+    "87": {
+     "group": "Europe",
+     "name": "Italy (regions)",
+     "name_html": "Italy (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/it/"
+     },
+    "88": {
+     "group": "Europe",
+     "name": "Kosovo (districts)",
+     "name_html": "Kosovo (districts)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/xk/"
+     },
+    "89": {
+     "group": "Europe",
+     "name": "Latvia (municipalities)",
+     "name_html": "Latvia (municipalities)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/lv/"
+     },
+    "90": {
+     "group": "Europe",
+     "name": "Liechtenstein (municipalities)",
+     "name_html": "Liechtenstein (municipalities)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/li/"
+     },
+    "91": {
+     "group": "Europe",
+     "name": "Lithuania (municipalities)",
+     "name_html": "Lithuania (municipalities)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/lt/"
+     },
+    "92": {
+     "group": "Europe",
+     "name": "London (boroughs)",
+     "name_html": "London (boroughs)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/uk-greater-london/"
+     },
+    "93": {
+     "group": "Europe",
+     "name": "Luxembourg (cantons)",
+     "name_html": "Luxembourg (cantons)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/lu/"
+     },
+    "94": {
+     "group": "Europe",
+     "name": "North Macedonia (statistical regions)",
+     "name_html": "North Macedonia (statistical regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/mk/"
+     },
+    "95": {
+     "group": "Europe",
+     "name": "Malta (local councils)",
+     "name_html": "Malta (local councils)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/mt/"
+     },
+    "96": {
+     "group": "Europe",
+     "name": "Moldova (districts)",
+     "name_html": "Moldova (districts)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/md/"
+     },
+    "97": {
+     "group": "Europe",
+     "name": "Monaco (quartiers )",
+     "name_html": "Monaco (quartiers )",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/mc/"
+     },
+    "98": {
+     "group": "Europe",
+     "name": "Montenegro (municipalities)",
+     "name_html": "Montenegro (municipalities)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/me/"
+     },
+    "99": {
+     "group": "Europe",
+     "name": "Netherlands (provinces)",
+     "name_html": "Netherlands (provinces)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/nl/"
+     },
+    "100": {
+     "group": "Europe",
+     "name": "Norway (counties)",
+     "name_html": "Norway (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/no/"
+     },
+    "101": {
+     "group": "Europe",
+     "name": "Poland (voivodeships)",
+     "name_html": "Poland (voivodeships)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/pl/"
+     },
+    "102": {
+     "group": "Europe",
+     "name": "Portugal (districts)",
+     "name_html": "Portugal (districts)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/pt/"
+     },
+    "103": {
+     "group": "Europe",
+     "name": "Romania (counties)",
+     "name_html": "Romania (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/ro/"
+     },
+    "104": {
+     "group": "Europe",
+     "name": "San Marino (municipalities)",
+     "name_html": "San Marino (municipalities)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/sm/"
+     },
+    "105": {
+     "group": "Europe",
+     "name": "Serbia (districts)",
+     "name_html": "Serbia (districts)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/rs/"
+     },
+    "106": {
+     "group": "Europe",
+     "name": "Slovakia (regions)",
+     "name_html": "Slovakia (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/sk/"
+     },
+    "107": {
+     "group": "Europe",
+     "name": "Slovenia (statistical regions)",
+     "name_html": "Slovenia (statistical regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/si/"
+     },
+    "108": {
+     "group": "Europe",
+     "name": "Spain (provinces)",
+     "name_html": "Spain (provinces)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/es/"
+     },
+    "109": {
+     "group": "Europe",
+     "name": "Sweden (counties)",
+     "name_html": "Sweden (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/se/"
+     },
+    "110": {
+     "group": "Europe",
+     "name": "Switzerland (cantons)",
+     "name_html": "Switzerland (cantons)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/ch/"
+     },
+    "111": {
+     "group": "Europe",
+     "name": "Turkey (provinces)",
+     "name_html": "Turkey (provinces)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/tr/"
+     },
+    "112": {
+     "group": "Europe",
+     "name": "UK (counties)",
+     "name_html": "UK (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/uk/"
+     },
+    "113": {
+     "group": "Europe",
+     "name": "UK (postcode areas)",
+     "name_html": "UK (postcode areas)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/uk-postcode/"
+     },
+    "114": {
+     "group": "Europe",
+     "name": "UK (regions)",
+     "name_html": "UK (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/uk-regions/"
+     },
+    "115": {
+     "group": "Europe",
+     "name": "UK and Ireland (counties)",
+     "name_html": "UK and Ireland (counties)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/uk-ireland/"
+     },
+    "116": {
+     "group": "Europe",
+     "name": "UK and Ireland (regions)",
+     "name_html": "UK and Ireland (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/europe/uk-ireland-regions/"
+     },
+    "117": {
+     "group": "Oceania",
+     "name": "Australia",
+     "name_html": "Australia",
+     "href": "https://www.fla-shop.com/products/wp-plugins/oceania/au/"
+     },
+    "118": {
+     "group": "Oceania",
+     "name": "New Zealand",
+     "name_html": "New Zealand",
+     "href": "https://www.fla-shop.com/products/wp-plugins/oceania/nz/"
+     },
+    "119": {
+     "group": "North America",
+     "name": "Canada (provinces)",
+     "name_html": "Canada (provinces)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/north-america/ca/"
+     },
+    "120": {
+     "group": "North America",
+     "name": "Mexico (states)",
+     "name_html": "Mexico (states)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/north-america/mx/"
+     },
+    "121": {
+     "group": "North America",
+     "name": "United States (states)",
+     "name_html": "United States (states)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/united-states/us/"
+     },
+    "122": {
+     "group": "Asia",
+     "name": "China (provinces)",
+     "name_html": "China (provinces)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/asia/cn/"
+     },
+
+    "123": {
+     "group": "Asia",
+     "name": "India (states)",
+     "name_html": "India (states)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/asia/in/"
+     },
+    "124": {
+     "group": "Asia",
+     "name": "Japan (prefectures)",
+     "name_html": "Japan (prefectures)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/asia/jp/"
+     },
+    "125": {
+     "group": "South America",
+     "name": "Argentina (provinces)",
+     "name_html": "Argentina (provinces)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/south-america/ar/"
+     },
+    "126": {
+     "group": "South America",
+     "name": "Bolivia (departments)",
+     "name_html": "Bolivia (departments)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/south-america/bo/"
+     },
+    "127": {
+     "group": "South America",
+     "name": "Brazil (states)",
+     "name_html": "Brazil (states)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/south-america/br/"
+     },
+    "128": {
+     "group": "South America",
+     "name": "Chile (regions)",
+     "name_html": "Chile (regions)",
+     "href": "https://www.fla-shop.com/products/wp-plugins/south-america/cl/"
+     }
+}

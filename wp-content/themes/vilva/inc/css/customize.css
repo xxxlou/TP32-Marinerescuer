@@ -1,0 +1,18 @@
+/** For hiding video section notice */
+#sub-accordion-section-header_image .customize-section-description-container .customize-section-title .customize-control-notifications-container{
+    visibility: hidden;
+    height: 0;    
+}
+
+#customize-control-home_layout .image-select + label,
+#customize-control-archive_layout .image-select + label,
+#customize-control-slider_layout .image-select + label,
+#customize-control-header_layout .image-select + label,
+#customize-control-single_post_layout .image-select + label,
+#customize-control-featured_area_layout .image-select + label,
+#customize-control-popular_layout .image-select + label,
+#customize-control-featured_layout .image-select + label {
+   border: 5px solid rgba(0,0,0,0.1);
+   margin-top: 10px;
+   line-height: 1;
+}

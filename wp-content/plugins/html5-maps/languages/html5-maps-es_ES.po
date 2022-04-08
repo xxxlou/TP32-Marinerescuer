@@ -1,0 +1,438 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HTML5 Maps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Oct 02 2015 09:22:28 GMT+0300 (RTZ 2 (зима))\n"
+"PO-Revision-Date: Fri Oct 02 2015 22:18:13 GMT+0300 (RTZ 2 (зима))\n"
+"Last-Translator: admin <dimgrey@mail.ru>\n"
+"Language-Team: \n"
+"Language: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Target-Locale: es_ES"
+
+#: ../mapslist.php:47
+msgid "Name"
+msgstr "Nombre"
+
+#: ../mapslist.php:48
+msgid "Map"
+msgstr "Mapa"
+
+#: ../mapslist.php:49
+msgid "ShortCode"
+msgstr "Código Corto"
+
+#: ../mapslist.php:50
+msgid "Edit"
+msgstr "Editar"
+
+#: ../mapslist.php:80
+msgid "Map settings"
+msgstr "Configuración del mapa"
+
+#: ../mapslist.php:81
+msgid "Map detailed settings"
+msgstr "Configuración avanzada del mapa"
+
+#: ../mapslist.php:82
+msgid "Preview"
+msgstr "Previsualización"
+
+#: ../mapslist.php:83
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../mapslist.php:144
+msgid ""
+"You need to create your first map. Select a map from the drop-down list "
+"below and click \"Add new map\""
+msgstr ""
+"Es necesario crear un mapa primero. Selecciona un mapa de la lista "
+"desplegable a continuación y hac click sobre \"Crear mapa nuevo\""
+
+#: ../mapslist.php:149
+msgid "HTML5 Maps"
+msgstr "Mapas HTML5"
+
+#: ../mapslist.php:159 ../mapslist.php:196
+msgid "Add new map"
+msgstr "Crear mapa nuevo"
+
+#: ../mapslist.php:160
+msgid "New map name:"
+msgstr "Nombre del mapa nuevo:"
+
+#: ../mapslist.php:161
+msgid "New map"
+msgstr "Nuevo mapa"
+
+#: ../mapslist.php:170
+msgid "Please select the map"
+msgstr "Por favor, selecciona el mapa"
+
+#: ../mapslist.php:203
+msgid "Export/import Map Settings"
+msgstr "Exportar/importar configuración de mapa"
+
+#: ../mapslist.php:204
+msgid ""
+"To export please select a checkbox of one or more maps, and press Export "
+"button"
+msgstr ""
+"Para exportar la configuración, selecciona la casilla de uno o más mapas y "
+"pulsa el botón de exportar"
+
+#: ../mapslist.php:205
+msgid "Export"
+msgstr "Exportar"
+
+#: ../mapslist.php:206
+msgid "Import"
+msgstr "Importar"
+
+#: ../mapslist.php:209
+msgid ""
+"The Import function is only available in <a href=\"http://www.fla-shop."
+"com/wordpressmaps.php\">Premium plugins</a> "
+msgstr ""
+"La funcionalidad de Importar configuración solamente esta disponible en <a "
+"href=\"http://www.fla-shop.com/wordpressmaps.php\">Plugins Premium</a>"
+
+#: ../mapslist.php:231
+msgid ""
+"Remove the map?\\nAttention! All settings for the map will be deleted "
+"permanently!"
+msgstr ""
+"¿Borrar el mapa?\\\n"
+"¡Atención! Toda la configuración del mapa será borrada permanentemente."
+
+#: ../editstatesconfig.php:65
+msgid "Configuration of Map Areas"
+msgstr "Configuración de las áreas del mapa"
+
+#: ../editstatesconfig.php:208
+msgid ""
+"This tab allows you to add the area-specific information and adjust colors "
+"of individual area on the map."
+msgstr ""
+"Este panel te permite añadir información específica del área y ajustar los "
+"colores de áreas individuales en el mapa"
+
+#: ../editstatesconfig.php:209
+msgid ""
+"* The term \"area\" means one of the following: region, state, country, "
+"province, county or district, depending on the particular plugin."
+msgstr ""
+"* El término \"area\" significa uno de los siguientes: región, estado, país, "
+"provincia, condado o distrito, dependiendo del plugin en particular."
+
+#: ../editstatesconfig.php:221
+msgid "Select an area"
+msgstr "Selecciona un área"
+
+#: ../editstatesconfig.php:269
+msgid "Map area"
+msgstr "Área del mapa"
+
+#: ../editstatesconfig.php:272
+msgid "Name:"
+msgstr "Nombre:"
+
+#: ../editstatesconfig.php:273
+msgid "Name of Area"
+msgstr "Nombre del área"
+
+#: ../editstatesconfig.php:276
+msgid "Shortname:"
+msgstr "Código Corto"
+
+#: ../editstatesconfig.php:277
+msgid "Shortname of Area"
+msgstr "Código corto del área"
+
+#: ../editstatesconfig.php:280
+msgid "What to do when the area is clicked:"
+msgstr "¿Qué hacer cuando se hace click sobre el área?:"
+
+#: ../editstatesconfig.php:281
+msgid "Nothing"
+msgstr "Nada"
+
+#: ../editstatesconfig.php:281
+msgid "Do not react on mouse clicks"
+msgstr "No obedecer a clicks de ratón"
+
+#: ../editstatesconfig.php:282
+msgid "Show popup balloon on the map"
+msgstr "Mostrar ventanas emergentes en el mapa"
+
+#: ../editstatesconfig.php:282
+msgid "Display a popup balloon with the specified information"
+msgstr "Mostrar una ventana emergente con la siguiente información"
+
+#: ../editstatesconfig.php:283
+msgid "Open a URL"
+msgstr "Abrir una URL"
+
+#: ../editstatesconfig.php:283
+msgid "A click on this area opens a specified URL"
+msgstr "Un click sobre este área abre la URL especificada"
+
+#: ../editstatesconfig.php:284
+msgid "Show more info"
+msgstr "Mostrar más información"
+
+#: ../editstatesconfig.php:284
+msgid "Displays a side-panel with additional information (contacts, addresses etc.)"
+msgstr ""
+"Muestra un panel lateral con información adicional (contactos, direcciones, "
+"etc.)"
+
+#: ../editstatesconfig.php:286
+msgid "URL:"
+msgstr "URL:"
+
+#: ../editstatesconfig.php:287
+msgid "The landing page URL"
+msgstr "La URL de destino"
+
+#: ../editstatesconfig.php:290
+msgid "Description:"
+msgstr "Descripción:"
+
+#: ../editstatesconfig.php:290
+msgid ""
+"The description is displayed to the right of the map and contains contacts "
+"or some other additional information"
+msgstr ""
+"La descripción se muestra a la derecha dle mapa y contiene contactos u otra "
+"información adicional"
+
+#: ../editstatesconfig.php:294
+msgid "Info for popup balloon:"
+msgstr "Información para ventana emergente:"
+
+#: ../editstatesconfig.php:294
+msgid "Info for popup balloon"
+msgstr "Información para ventana emergente"
+
+#: ../editstatesconfig.php:299
+msgid "Area color:"
+msgstr "Color del área:"
+
+#: ../editstatesconfig.php:300
+msgid "The color of an area."
+msgstr "El color de un área."
+
+#: ../editstatesconfig.php:301 ../editstatesconfig.php:305
+msgid "Apply to all areas"
+msgstr "Aplicar a todas las áreas"
+
+#: ../editstatesconfig.php:303
+msgid "Area hover color:"
+msgstr "Color del área activa:"
+
+#: ../editstatesconfig.php:304
+msgid "The color of an area when the mouse cursor is over it."
+msgstr "El color del área cuando el ratón está sobre la misma."
+
+#: ../editstatesconfig.php:313
+msgid "Image URL:"
+msgstr "URL de imagen:"
+
+#: ../editstatesconfig.php:315
+msgid "clear"
+msgstr "borrar"
+
+#: ../editstatesconfig.php:316
+msgid "The path to file of the image to display in a popup"
+msgstr "La dirección al archivo de la imagen para mostrar en la ventana emergente"
+
+#: ../editstatesconfig.php:325 ../editmainconfig.php:143
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: ../editmainconfig.php:19
+msgid "HTML5 Map Config"
+msgstr "Configuración del mapa HTML5"
+
+#: ../editmainconfig.php:72
+msgid "Map:"
+msgstr "Mapa:"
+
+#: ../editmainconfig.php:78
+msgid "The map"
+msgstr "El mapa"
+
+#: ../editmainconfig.php:81
+msgid "Resource"
+msgstr "Recurso"
+
+#: ../editmainconfig.php:83
+msgid "Path to map data file:"
+msgstr "Dirección al archivo de datos del mapa:"
+
+#: ../editmainconfig.php:87
+msgid "data file on html5maps.com"
+msgstr "archivo de datos de html5maps.com"
+
+#: ../editmainconfig.php:87 ../editmainconfig.php:94
+msgid "Path to map data file"
+msgstr "Dirección del archivo de datos del mapa"
+
+#: ../editmainconfig.php:94
+msgid "data file on your server"
+msgstr "archivo de datos en tu servidor"
+
+#: ../editmainconfig.php:101
+msgid ""
+"Specify general settings of the map. To choose a color, click a color box, "
+"select the desired color in the color selection dialog and click anywhere "
+"outside the dialog to apply the chosen color."
+msgstr ""
+"Configuración general del mapa. Para elegir un color, hacer click sobre el "
+"cajón de colores, selecciona el color deseado del mismo y haz click fuera de "
+"la ventana para aplicar el color."
+
+#: ../editmainconfig.php:104
+msgid "Map Settings"
+msgstr "Configuración del mapa"
+
+#: ../editmainconfig.php:106
+msgid "Map name:"
+msgstr "Nombre del mapa:"
+
+#: ../editmainconfig.php:107
+msgid "Name of the map"
+msgstr "Nombre del mapa"
+
+#: ../editmainconfig.php:110
+msgid "Borders Color:"
+msgstr "Color del borde:"
+
+#: ../editmainconfig.php:111
+msgid "The color of borders on the map"
+msgstr "Los colores del borde del mapa"
+
+#: ../editmainconfig.php:114
+msgid "Responsive layout:"
+msgstr "Diseño adaptable:"
+
+#: ../editmainconfig.php:115
+msgid "Disabled:"
+msgstr "Deshabilitado:"
+
+#: ../editmainconfig.php:116
+msgid "Enabled:"
+msgstr "Habilitado:"
+
+#: ../editmainconfig.php:117
+msgid "Type of the layout"
+msgstr "Tipo de diseño"
+
+#: ../editmainconfig.php:120
+msgid "Map width:"
+msgstr "Ancho de mapa:"
+
+#: ../editmainconfig.php:121
+msgid "The width of the map"
+msgstr "El ancho del mapa"
+
+#: ../editmainconfig.php:124
+msgid "Map height:"
+msgstr "Altura del mapa"
+
+#: ../editmainconfig.php:125
+msgid "The height of the map"
+msgstr "La altura del mapa"
+
+#: ../editmainconfig.php:128
+msgid "Max width:"
+msgstr "Anchura máxima"
+
+#: ../editmainconfig.php:129
+msgid "The max width of the map"
+msgstr "La anchura máxima del mapa"
+
+#: ../editmainconfig.php:135
+msgid "Content Info"
+msgstr "Información del contenido"
+
+#: ../editmainconfig.php:136
+msgid "Additional Info Area:"
+msgstr "Información adicional del área:"
+
+#: ../editmainconfig.php:137
+msgid "At right:"
+msgstr "A la derecha:"
+
+#: ../editmainconfig.php:138
+msgid "At bottom:"
+msgstr "Abajo:"
+
+#: ../editmainconfig.php:139
+msgid "Where to place an additional information about state"
+msgstr "Donde ubicar información adiciona acerca del estado"
+
+#. URI of the plugin
+msgid "http://www.fla-shop.com"
+msgstr "http://www.fla-shop.com"
+
+#. Description of the plugin
+msgid ""
+"High-quality map plugin for WordPress. The map depicts regions (states, "
+"provinces, counties etc.) and features color, landing page and popup "
+"customization."
+msgstr ""
+"Mapa HTML5 con diseño adaptable para WordPress. Modifica colores, links, "
+"ventanas emergentes, etc. Con mapas de España y del todo el mundo."
+
+#. Author of the plugin
+msgid "Fla-shop.com"
+msgstr "Fla-shop.com"
+
+#: ../freehtmlmap.php:26 ../freehtmlmap.php:26
+msgid "HTML5 Map Settings"
+msgstr "Mapas HTML5"
+
+#: ../freehtmlmap.php:28 ../freehtmlmap.php:28
+msgid "Maps"
+msgstr "Mapas"
+
+#: ../freehtmlmap.php:30 ../freehtmlmap.php:30
+msgid "Main settings"
+msgstr "Configuración"
+
+#: ../freehtmlmap.php:31 ../freehtmlmap.php:31
+msgid "Detailed settings"
+msgstr "Configuración avanzada"
+
+#: ../freehtmlmap.php:32 ../freehtmlmap.php:32
+msgid "Map Preview"
+msgstr "Previsualización del mapa"
+
+#: ../freehtmlmap.php:85
+#, php-format
+msgid "Use shortcode %s for install this map"
+msgstr "Usar código corto %s para instalar este mapa"
+
+#: ../freehtmlmap.php:233
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../freehtmlmap.php:326
+#, php-format
+msgid "Settings file not found for map of %s"
+msgstr "El archivo de configuración no se encuentra para el mapa %s"

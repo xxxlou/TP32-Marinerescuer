@@ -1,0 +1,222 @@
+{
+    "st1": {
+   	 	"id": 1,
+		"name": "Alsace",
+		"shortname": "Alsace",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st2": {
+   	 	"id": 2,
+		"name": "Aquitaine",
+		"shortname": "Aquitaine",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st3": {
+   	 	"id": 3,
+		"name": "Auvergne",
+		"shortname": "Auvergne",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st4": {
+   	 	"id": 4,
+		"name": "Basse-Normandie",
+		"shortname": "Basse-Normandie",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st5": {
+   	 	"id": 5,
+		"name": "Bourgogne",
+		"shortname": "Bourgogne",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st6": {
+   	 	"id": 6,
+		"name": "Bretagne",
+		"shortname": "Bretagne",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st7": {
+   	 	"id": 7,
+		"name": "Centre",
+		"shortname": "Centre",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st8": {
+   	 	"id": 8,
+		"name": "Champagne-Ardenne",
+		"shortname": "Champagne-Ardenne",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st9": {
+   	 	"id": 9,
+		"name": "Corse",
+		"shortname": "Corse",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st10": {
+   	 	"id": 10,
+		"name": "Franche-Comté",
+		"shortname": "Franche-Comté",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st11": {
+   	 	"id": 11,
+		"name": "Hte-Normandie",
+		"shortname": "Hte-Normandie",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st12": {
+   	 	"id": 12,
+		"name": "Île-De-France",
+		"shortname": "Île-De-France",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st13": {
+   	 	"id": 13,
+		"name": "Languedoc-Roussillon",
+		"shortname": "Languedoc-Roussillon",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st14": {
+   	 	"id": 14,
+		"name": "Limousin",
+		"shortname": "Limousin",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st15": {
+   	 	"id": 15,
+		"name": "Lorraine",
+		"shortname": "Lorraine",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st16": {
+   	 	"id": 16,
+		"name": "Midi-Pyrénées",
+		"shortname": "Midi-Pyrénées",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st17": {
+   	 	"id": 17,
+		"name": "Nord-Pas-De-Calais",
+		"shortname": "Nord-Pas-De-Calais",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st18": {
+   	 	"id": 18,
+		"name": "Pays-De-La-Loire",
+		"shortname": "Pays-De-La-Loire",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st19": {
+   	 	"id": 19,
+		"name": "Picardie",
+		"shortname": "Picardie",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st20": {
+   	 	"id": 20,
+		"name": "Poitou-Charentes",
+		"shortname": "Poitou-Charentes",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st21": {
+   	 	"id": 21,
+		"name": "Provence-Alpes-Côte-D´Azur",
+		"shortname": "Provence-Alpes-Côte-D´Azur",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	},
+    "st22": {
+   	 	"id": 22,
+		"name": "Rhône-Alpes",
+		"shortname": "Rhône-Alpes",
+		"link": "",
+		"comment": "",
+		"image": "",
+		"color_map": "#7798BA", 
+		"color_map_over": "#366CA3"
+	}
+}
