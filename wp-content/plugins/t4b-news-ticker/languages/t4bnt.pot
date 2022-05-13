@@ -1,0 +1,315 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive CSS3 Portfolio Image Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-12 12:28+0000\n"
+"POT-Revision-Date: Fri Aug 19 2016 17:07:20 GMT+0600 (Central Asia Standard "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: news-ticker.php:45
+msgid "Settings"
+msgstr ""
+
+#: inc/ticker-admin.php:21
+msgid "Plugin Shortcode"
+msgstr ""
+
+#: inc/ticker-admin.php:25
+msgid "Code Usage Instruction"
+msgstr ""
+
+#: inc/ticker-admin.php:33
+msgid "Premium Features"
+msgstr ""
+
+#: inc/ticker-admin.php:34
+msgid ""
+"Premium version has been developed to present News Ticker more proficiently. "
+"Some of the most notable features are:"
+msgstr ""
+
+#: inc/ticker-admin.php:36
+msgid "7 types of animation effect."
+msgstr ""
+
+#: inc/ticker-admin.php:37
+msgid "Import/Export (Backup) news ticker."
+msgstr ""
+
+#: inc/ticker-admin.php:38
+msgid "Make a copy of a ticker instantly."
+msgstr ""
+
+#: inc/ticker-admin.php:39
+msgid "Multiple categories support"
+msgstr ""
+
+#: inc/ticker-admin.php:40
+msgid "RSS and JSON support."
+msgstr ""
+
+#: inc/ticker-admin.php:41
+msgid "RTL Support."
+msgstr ""
+
+#: inc/ticker-admin.php:42
+msgid "Play/Pause/Previous/Next support."
+msgstr ""
+
+#: inc/ticker-admin.php:43
+msgid "Google font support."
+msgstr ""
+
+#: inc/ticker-admin.php:44
+msgid "Font Awesome icon support."
+msgstr ""
+
+#: inc/ticker-admin.php:46
+msgid "View Premium"
+msgstr ""
+
+#: inc/ticker-admin.php:49
+msgid "Plugin Info"
+msgstr ""
+
+#: inc/ticker-admin.php:51
+msgid "Version: 1.2.2"
+msgstr ""
+
+#: inc/ticker-admin.php:52
+msgid "Scripts: PHP + CSS + JS"
+msgstr ""
+
+#: inc/ticker-admin.php:53
+msgid "Requires: Wordpress 3.0+"
+msgstr ""
+
+#: inc/ticker-admin.php:54
+msgid "First release: 29 December, 2014"
+msgstr ""
+
+#: inc/ticker-admin.php:55
+msgid "Last Update: 12 February, 2020"
+msgstr ""
+
+#: inc/ticker-admin.php:56
+msgid "By"
+msgstr ""
+
+#: inc/ticker-admin.php:56
+msgid "Realwebcare"
+msgstr ""
+
+#: inc/ticker-admin.php:57
+msgid "Need Help"
+msgstr ""
+
+#: inc/ticker-admin.php:58
+msgid "Like it? Please leave us a"
+msgstr ""
+
+#: inc/ticker-admin.php:58
+msgid "rating. We highly appreciate your support!"
+msgstr ""
+
+#: inc/ticker-admin.php:59
+msgid "Published under"
+msgstr ""
+
+#: inc/ticker-admin.php:59
+msgid "GNU General Public License"
+msgstr ""
+
+#: inc/ticker-settings.php:27
+msgid "Ticker Settings"
+msgstr ""
+
+#: inc/ticker-settings.php:35
+msgid "General Settings"
+msgstr ""
+
+#: inc/ticker-settings.php:51
+msgid "Enable Ticker"
+msgstr ""
+
+#: inc/ticker-settings.php:52
+msgid "Mark if you want to show News Ticker."
+msgstr ""
+
+#: inc/ticker-settings.php:58
+msgid "Show in Homepage Only"
+msgstr ""
+
+#: inc/ticker-settings.php:59
+msgid "Select if you want to show the News Ticker only in homepage."
+msgstr ""
+
+#: inc/ticker-settings.php:65
+msgid "Enter Ticker Title"
+msgstr ""
+
+#: inc/ticker-settings.php:66
+msgid "Enter a title for the News Ticker"
+msgstr ""
+
+#: inc/ticker-settings.php:67
+msgid "News Ticker"
+msgstr ""
+
+#: inc/ticker-settings.php:74
+msgid "Ticker Animation Type"
+msgstr ""
+
+#: inc/ticker-settings.php:75
+msgid "Select type of animation (Default: 'scroll')."
+msgstr ""
+
+#: inc/ticker-settings.php:87
+msgid "Timeout"
+msgstr ""
+
+#: inc/ticker-settings.php:88
+msgid "Time between the fades in milliseconds (Default: '2000')"
+msgstr ""
+
+#: inc/ticker-settings.php:89
+msgid "2000"
+msgstr ""
+
+#: inc/ticker-settings.php:99
+msgid "Speed of Scrolling"
+msgstr ""
+
+#: inc/ticker-settings.php:100
+msgid "Scrolling speed of the ticker."
+msgstr ""
+
+#: inc/ticker-settings.php:101
+msgid "0.05"
+msgstr ""
+
+#: inc/ticker-settings.php:111
+msgid "Speed of Ticker"
+msgstr ""
+
+#: inc/ticker-settings.php:112
+msgid "Revealing speed of the ticker."
+msgstr ""
+
+#: inc/ticker-settings.php:113
+msgid "0.10"
+msgstr ""
+
+#: inc/ticker-settings.php:123
+msgid "News Ticker Type"
+msgstr ""
+
+#: inc/ticker-settings.php:135
+msgid "News Ticker Categories"
+msgstr ""
+
+#: inc/ticker-settings.php:136
+msgid "Select a category for News Ticker to show."
+msgstr ""
+
+#: inc/ticker-settings.php:143
+msgid "Select News Ticker Tags"
+msgstr ""
+
+#: inc/ticker-settings.php:144
+msgid "Select tag names seprated by comma."
+msgstr ""
+
+#: inc/ticker-settings.php:150
+msgid "Number of post"
+msgstr ""
+
+#: inc/ticker-settings.php:151
+msgid "Number of post to show. Default -1, means show all."
+msgstr ""
+
+#: inc/ticker-settings.php:152
+msgid "10"
+msgstr ""
+
+#: inc/ticker-settings.php:160
+msgid "Select Post Order"
+msgstr ""
+
+#: inc/ticker-settings.php:165
+msgid "Ascending"
+msgstr ""
+
+#: inc/ticker-settings.php:166
+msgid "Descending"
+msgstr ""
+
+#: inc/ticker-settings.php:171
+msgid "Select Post Order By"
+msgstr ""
+
+#: inc/ticker-settings.php:176
+msgid "Post ID"
+msgstr ""
+
+#: inc/ticker-settings.php:177
+msgid "Post Name (post slug)"
+msgstr ""
+
+#: inc/ticker-settings.php:178
+msgid "Post Date"
+msgstr ""
+
+#: inc/ticker-settings.php:183
+msgid "News Ticker Custom Text"
+msgstr ""
+
+#: inc/ticker-settings.php:184
+msgid ""
+"Enter custom text for your news ticker. One sentence with or without link "
+"per line."
+msgstr ""
+
+#: inc/ticker-settings.php:190
+msgid "Open in New Tab"
+msgstr ""
+
+#: inc/ticker-settings.php:191
+msgid "Select if you want to open link in new tab."
+msgstr ""
+
+#. Name of the plugin
+msgid "T4B News Ticker"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"T4B News Ticker is a flexible and easy to use WordPress plugin that allow "
+"you to make horizontal News Ticker."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wordpress.org/plugins/t4b-news-ticker/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://profiles.wordpress.org/moviehour/"
+msgstr ""
