@@ -1,1 +1,0 @@
-DROP TABLE IF EXISTS {wp_prefix}wpda_logging{wpda_postfix};

@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '7f887f92ed8bcbd9a6ffda7437ee4566e7bc8d35',
+        'reference' => 'ee87fe6372af73a38e9f98dc7e8d449d8dc64c55',
         'name' => 'vektor-inc/lightning',
         'dev' => false,
     ),
@@ -25,7 +25,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '7f887f92ed8bcbd9a6ffda7437ee4566e7bc8d35',
+            'reference' => 'ee87fe6372af73a38e9f98dc7e8d449d8dc64c55',
             'dev_requirement' => false,
         ),
         'vektor-inc/vk-breadcrumb' => array(

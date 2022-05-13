@@ -121,11 +121,3 @@ function lightning_g2_template_compatible() {
 	wp_reset_postdata();
 	wp_reset_query();
 }
-
-/**
- * Fall back for old hook name
- */
-function lightning_g3_site_body_append_spell_miss_compatibility() {
-	do_action( 'lightning_site_body_apepend', 'lightning_site_body_apepend' );
-}
-add_action( 'lightning_site_body_append', 'lightning_g3_site_body_append_spell_miss_compatibility' );

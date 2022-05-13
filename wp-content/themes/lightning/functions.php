@@ -203,15 +203,3 @@ function lightning_change_generation( $old_value, $value, $option ) {
 	}
 }
 add_action( 'update_option_lightning_theme_generation', 'lightning_change_generation', 10, 3 );
-
-function https_image_replacer($content){
- if( is_ssl() ){
-  
-  $host_name = $_SERVER['HTTP_HOST'];
-  $http_host_name='http://'.$host_name.'/wp-content/uploads';
-  $https_host_name='https://'.$host_name.'/wp-content/uploads';
-  $content = str_replace($http_host_name, $https_host_name, $content);
- }
- return $content;
-}
-add_filter('the_content', 'https_image_replacer');

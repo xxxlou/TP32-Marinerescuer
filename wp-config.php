@@ -51,12 +51,12 @@ define( 'DB_USER', 'dbmasteruser' );
 
 /** Database password */
 
-define( 'DB_PASSWORD', '6<DL]W[,hgW[QlvXW;(<-(WBy9#eY%1!' );
+define( 'DB_PASSWORD', '):q;WXi6ZOC#*0tAd$3s8qchw-;HKI;H' );
 
 
 /** Database hostname */
 
-define( 'DB_HOST', 'ls-1a9504341577da37a08f0e1857e19d32ab0e5e7f.cw2wirudkr5t.ap-southeast-2.rds.amazonaws.com:3306' );
+define( 'DB_HOST', 'ls-f71e24399d306f2f71e231530a0032e3f3619dcf.cw2wirudkr5t.ap-southeast-2.rds.amazonaws.com:3306' );
 
 
 /** Database charset to use in creating database tables. */

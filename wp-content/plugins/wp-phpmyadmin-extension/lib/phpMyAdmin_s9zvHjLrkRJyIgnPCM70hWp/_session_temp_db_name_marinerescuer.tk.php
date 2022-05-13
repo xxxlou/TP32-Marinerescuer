@@ -1,1 +1,0 @@
-bitnami_wordpress

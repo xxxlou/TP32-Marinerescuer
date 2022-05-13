@@ -97,7 +97,7 @@ if ( is_front_page() ) {
 
 	</div><!-- [ /.site-body-container ] -->
 
-	<?php do_action( 'lightning_site_body_append', 'lightning_site_body_append' ); ?>
+	<?php do_action( 'lightning_site_body_apepend', 'lightning_site_body_apepend' ); ?>
 
 </div><!-- [ /.site-body ] -->
 
