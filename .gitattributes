@@ -1,2 +1,4 @@
 backup_2022-05-11-1313_Marine_Rescuer_1ea3e57a95d1-plugins.psd filter=lfs diff=lfs merge=lfs -text
 backup_2022-05-11-1313_Marine_Rescuer_1ea3e57a95d1-uploads.psd filter=lfs diff=lfs merge=lfs -text
+backup_2022-05-11-1313_Marine_Rescuer_1ea3e57a95d1-uploads.zip.psd filter=lfs diff=lfs merge=lfs -text
+backup_2022-05-11-1313_Marine_Rescuer_1ea3e57a95d1-plugins.zip.psd filter=lfs diff=lfs merge=lfs -text

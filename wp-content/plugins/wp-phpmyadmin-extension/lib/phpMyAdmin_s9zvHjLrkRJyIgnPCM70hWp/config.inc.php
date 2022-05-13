@@ -5,12 +5,12 @@ if(!defined('wp_pma_allowed')) exit("direct_access_forbidden. err8");
 $i = 0;
 
 $i++;
-$cfg['Servers'][$i]['host'] 			= 'localhost';
+$cfg['Servers'][$i]['host'] 			= 'ls-1a9504341577da37a08f0e1857e19d32ab0e5e7f.cw2wirudkr5t.ap-southeast-2.rds.amazonaws.com';
 $cfg['Servers'][$i]['port'] 			= '3306';
 $cfg['Servers'][$i]['connect_type'] 	= 'tcp';
 $cfg['Servers'][$i]['socket'] 			= '';
 $cfg['Servers'][$i]['AllowNoPassword']	= false;   // true/false
-$cfg['blowfish_secret']					= 'wP@/9A#rXHN\"3n=GH.Wc<hN<:h1%,&?c' ;  // i.e. '$b~`lnkwm>^^jNUEE;(4xB$L\'b?."\'o9' 
+$cfg['blowfish_secret']					= 'K=Ck+&Ir+^\';FrY,S+<x|T{MfAO+/i~T' ;  // i.e. '$b~`lnkwm>^^jNUEE;(4xB$L\'b?."\'o9' 
 $cfg['DefaultLang']						= 'en';		// 'en'
 $cfg['Servers'][$i]['only_db']			= [file_get_contents(__DIR__."/_session_temp_db_name_".$_SERVER["HTTP_HOST"].".php")] ;    //i.e. array('db1', 'db2') Show only listed databases
 $cfg['PmaAbsoluteUri'] 					= '/wp-content/plugins/wp-phpmyadmin-extension/lib/phpMyAdmin_s9zvHjLrkRJyIgnPCM70hWp/';			//used, if different directory by htaccess ; or parse_url($GLOBALS['PMA_PHP_SELF']);

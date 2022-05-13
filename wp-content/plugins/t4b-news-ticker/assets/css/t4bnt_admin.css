@@ -1,0 +1,26 @@
+/*!
+ *  T4B News Ticker v1.2.5 - 17-12-2021
+ *  by @realwebcare - https://www.realwebcare.com/
+ */
+
+/* Settings Area */
+.t4bnt_settings_area .t4bnt_settings {width: 72%;float: left;display: inline-block;margin: 10px 0 0 2px}
+.t4bnt_settings_area .t4bnt_settings_content {width: 25%;display: inline-block}
+.t4bnt_settings_area .t4bnt_settings .tags-list {display: none}
+.t4bnt_settings_area .t4bnt_settings .tags-list a {background: #23282d;color: #fff;margin: 3px 6px 3px 0;padding: 3px 5px;font-size: 12px;display: inline-block;}
+/* Sidebar */
+#t4bnt-sidebar {position: relative;margin: 53px 0 0 2px}
+#t4bnt-sidebar .t4bntusage-sidebar {border: 1px solid #e5e5e5;-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);box-shadow: 0 1px 1px rgba(0,0,0,.04);margin-bottom: 16px;padding: 0 15px}
+#t4bnt-sidebar .t4bntusage-sidebar h3 {border-bottom: 1px solid #72777c;padding-bottom: 7px;text-transform: uppercase}
+#t4bnt-sidebar .t4bntusage-list li {list-style: disc;margin: 0 0 5px 15px;}
+#t4bnt-sidebar #t4bntusage-shortcode.t4bntusage-sidebar, #t4bnt-sidebar #t4bntusage-premium.t4bntusage-sidebar, #t4bnt-sidebar #t4bntusage-features.t4bntusage-sidebar, #t4bnt-sidebar #t4bntusage-info.t4bntusage-sidebar {background-color: #ffffff;border: 1px solid #ddd;color:#000;position:relative;max-width:255px;padding:15px}
+#t4bnt-sidebar #t4bntusage-shortcode.t4bntusage-sidebar input.t4bnt-shortcode {background: #f1f1f1;display: inline-block;margin: 10px 0 0;padding: 0 10px;height: 38px;line-height: 38px;letter-spacing: 1px;font-weight: 600;border-radius: 3px;border: 1px solid #cccccc}
+#t4bnt-sidebar #t4bntusage-premium.t4bntusage-sidebar {background-color:#ffffff;height: auto;padding-top: 0}
+#t4bnt-sidebar #t4bntusage-premium.t4bntusage-sidebar .t4bnt {font-size: 18px;margin: 10px 0;line-height: 28px;font-weight: 600;}
+#t4bnt-sidebar #t4bntusage-premium.t4bntusage-sidebar .t4bnt code {color:#0000bb;padding:3px 3px 4px;margin:0;font-size:11px;}
+#t4bnt-sidebar #t4bntusage-premium.t4bntusage-sidebar a {float: right;background: #333A80;display: inline-block;margin: 10px 0;padding: 6px 8px;text-decoration: none;color: #f1f1f1;font-size: 14px;font-weight: 600;border-radius: 5px;box-shadow: 0px 0px 1px #222;border: 1px solid #192067}
+#t4bnt-sidebar #t4bntusage-premium.t4bntusage-sidebar a:hover {border: 1px solid #71759e}
+#t4bnt-sidebar #t4bntusage-info.t4bntusage-sidebar h3, #t4bnt-sidebar #t4bntusage-features.t4bntusage-sidebar h3, #t4bnt-sidebar #t4bntusage-shortcode.t4bntusage-sidebar h3 {font-size: 18px;margin: 0 0 5px;line-height: 28px;font-weight: 600;color: #222;text-shadow: 1px 1px 1px #fafafa}
+#t4bnt-sidebar #t4bntusage-info.t4bntusage-sidebar ul.t4bntusage-list {margin:10px 0 0}
+#t4bnt-sidebar #t4bntusage-info.t4bntusage-sidebar a {color: #0073aa;text-decoration: none;font-weight: 600}
+#t4bnt-sidebar #t4bntusage-info.t4bntusage-sidebar a:hover {text-decoration: underline}

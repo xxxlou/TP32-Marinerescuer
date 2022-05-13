@@ -1,0 +1,43 @@
+.ELISQLREPORTS-Report-Name {
+	display: none;
+}
+
+.rounded-corners {
+	margin: 10px; padding: 10px; border-radius: 10px; border: 1px solid #000000;
+}
+
+.shadowed-box {
+	box-shadow: -3px 3px 3px #666;
+}
+
+.sidebar-box {
+	background-color: #CCC;
+}
+
+.sidebar-links {
+	padding: 0 15px; list-style: none;
+}
+
+.shadowed-text {
+	text-shadow: #0000FF -1px 1px 1px;
+}
+
+.sub-option {
+	float: left; margin: 3px 5px;
+}
+
+.postbox {
+	margin-right: 10px;
+}
+
+#ELISQLREPORTS-right-sidebar {
+	float: right; margin-right: 0;
+}
+
+.dashReport:before {
+	content: "\f105";
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 20px/1 "dashicons";
+	vertical-align: top;
+}

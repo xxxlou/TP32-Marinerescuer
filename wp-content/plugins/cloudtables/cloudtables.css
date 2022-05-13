@@ -1,0 +1,76 @@
+
+/* Overrides for DataTables to operate nicely in WordPress themes */
+div.dataTables_wrapper div.dataTables_paginate .paginate_button {
+	padding: 0.25em 0.75em;
+}
+
+div.dataTables_wrapper div.dataTables_length label,
+div.dataTables_wrapper div.dataTables_filter label {
+	font-weight: normal;
+	font-size: inherit;
+}
+
+div.dataTables_wrapper div.dataTables_filter label input {
+	display: inline-block;
+	max-width: 200px;
+}
+
+div.dataTables_wrapper table,
+div.dataTables_wrapper th, 
+div.dataTables_wrapper td {
+	border: none;
+	word-break: initial;
+}
+div.dataTables_wrapper th:focus, 
+div.dataTables_wrapper td:focus {
+	outline: none;
+}
+
+div.dataTables_wrapper button.dt-button {
+	font-weight: normal;
+	font-size: 0.8em;
+	letter-spacing: 0;
+	text-transform: initial;
+}
+
+div.dt-button-info h2 {
+	font-size: 1.5em;
+	padding-top: 0.5em;
+}
+
+div.dt-button-info h2:before {
+	display: none;
+}
+
+div.DTE button.btn {
+	font-weight: normal;
+	text-transform: initial;
+}
+
+div.DTE div.DTE_Header_Content {
+	line-height: 1em;
+}
+
+div.editor-datetime {
+	font-size: 16px;
+	line-height: 1em;
+}
+
+div.editor-datetime td,
+div.editor-datetime th {
+	border: none;
+}
+
+div.editor-datetime button {
+	font-weight: normal;
+}
+
+
+p.cloudtables-error {
+	padding: 1em;
+	border: 3px solid #dc5b5d;
+	border-radius: 5px;
+	text-align: center;
+	line-height: 1.45em;
+	background: repeating-linear-gradient( 45deg, #eecfcf, #eecfcf 10px, #f3dfdf 10px, #f3dfdf 20px);
+}

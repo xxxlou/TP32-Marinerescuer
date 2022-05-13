@@ -1,0 +1,1094 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: makepot.js 0.3.0\n"
+
+#: controllers/completed.php:193
+msgid "Record ID"
+msgstr ""
+
+#: controllers/completed.php:193
+msgid "User name or IP"
+msgstr ""
+
+#: controllers/completed.php:194
+msgid "Email address"
+msgstr ""
+
+#: controllers/completed.php:194
+msgid "Date / time"
+msgstr ""
+
+#: controllers/completed.php:194
+msgid "Points"
+msgstr ""
+
+#: controllers/completed.php:194
+msgid "Result"
+msgstr ""
+
+#: controllers/completed.php:209
+msgid "(%d points)"
+msgstr ""
+
+#: controllers/integrations.php:236
+msgid "Guest"
+msgstr ""
+
+#: controllers/quizzes.php:33
+msgid "Congratulations, you completed the <span>quiz!</span>
+<h2>{{result-title}}</h2>
+{{result-text}}
+
+You achieved {{points}} points from {{questions}} questions."
+msgstr ""
+
+#: controllers/quizzes.php:110
+msgid "Quiz not found"
+msgstr ""
+
+#: controllers/quizzes.php:131
+msgid "This quiz has no questions."
+msgstr ""
+
+#: controllers/results.php:19
+msgid "The result was not added"
+msgstr ""
+
+#: controllers/results.php:29
+msgid "The result was not saved"
+msgstr ""
+
+#: controllers/results.php:38
+msgid "The result was not deleted"
+msgstr ""
+
+#: controllers/shortcodes.php:7
+msgid "No quiz to load"
+msgstr ""
+
+#: models/basic.php:163
+msgid "WordPress"
+msgstr ""
+
+#: models/basic.php:165
+msgid "User results on {{quiz-name}}"
+msgstr ""
+
+#: models/basic.php:166
+msgid "Your results on {{quiz-name}}"
+msgstr ""
+
+#: models/basic.php:177
+msgid "Chained Quiz"
+msgstr ""
+
+#: models/basic.php:179
+msgid "Quizzes"
+msgstr ""
+
+#: models/basic.php:181
+msgid "Settings"
+msgstr ""
+
+#: models/basic.php:183
+msgid "Social Sharing"
+msgstr ""
+
+#: models/basic.php:185
+msgid "Integrations"
+msgstr ""
+
+#: models/basic.php:188
+msgid "Chained Quiz Results"
+msgstr ""
+
+#: models/basic.php:190
+msgid "Chained Quiz Questions"
+msgstr ""
+
+#: models/basic.php:192
+msgid "Users Completed Quiz"
+msgstr ""
+
+#: models/basic.php:218
+msgid "Please answer the question"
+msgstr ""
+
+#: models/basic.php:219
+msgid "Please provide valid email address"
+msgstr ""
+
+#: models/question.php:26
+msgid "DB Error"
+msgstr ""
+
+#: models/question.php:253
+msgid "Yes"
+msgstr ""
+
+#: models/question.php:253
+msgid "No"
+msgstr ""
+
+#: models/quiz.php:222
+msgid "Username: %s <br> User email: %s"
+msgstr ""
+
+#: models/quiz.php:225
+msgid "User IP: %s"
+msgstr ""
+
+#: models/quiz.php:226
+msgid "User email: %s"
+msgstr ""
+
+#: models/quiz.php:281
+msgid "Question"
+msgstr ""
+
+#: models/quiz.php:282
+msgid "Answer"
+msgstr ""
+
+#: models/quiz.php:282
+msgid "Correct answer?"
+msgstr ""
+
+#: models/quiz.php:310
+msgid "%s (Copy)"
+msgstr ""
+
+#: views/chained-quizzes.html.php:20
+msgid "%d users"
+msgstr ""
+
+#: views/chained-quizzes.html.php:2
+msgid "Chained Quizzes"
+msgstr ""
+
+#: views/chained-quizzes.html.php:6
+msgid "Create new chained quiz"
+msgstr ""
+
+#: views/chained-quizzes.html.php:10
+msgid "Quiz title"
+msgstr ""
+
+#: views/chained-quizzes.html.php:10
+msgid "Quiz Shortcode"
+msgstr ""
+
+#: views/chained-quizzes.html.php:10
+msgid "Questions"
+msgstr ""
+
+#: views/chained-quizzes.html.php:11
+msgid "Results"
+msgstr ""
+
+#: views/chained-quizzes.html.php:11
+msgid "Submitted by"
+msgstr ""
+
+#: views/chained-quizzes.html.php:11
+msgid "Edit/Delete"
+msgstr ""
+
+#: views/chained-quizzes.html.php:17
+msgid "Manage"
+msgstr ""
+
+#: views/chained-quizzes.html.php:21
+msgid "No users"
+msgstr ""
+
+#: views/chained-quizzes.html.php:23
+msgid "Edit"
+msgstr ""
+
+#: views/chained-quizzes.html.php:24
+msgid "This will make a duplicate of the whole quiz."
+msgstr ""
+
+#: views/chained-quizzes.html.php:24
+msgid "Copy"
+msgstr ""
+
+#: views/chained-quizzes.html.php:25
+msgid "Delete"
+msgstr ""
+
+#: views/chained-quizzes.html.php:28
+msgid "Note: if a quiz title is not hyperlinked this means you have not published its shortcode yet. You must place the shortcode in a post or page in order to make the quiz accessible to the public."
+msgstr ""
+
+#: views/chained-quizzes.html.php:31
+msgid "There are no quizzes yet."
+msgstr ""
+
+#: views/chained-quizzes.html.php:42
+msgid "Are you sure?"
+msgstr ""
+
+#: views/choice.html.php:8
+msgid "(same question)"
+msgstr ""
+
+#: views/choice.html.php:1
+msgid "Points:"
+msgstr ""
+
+#: views/choice.html.php:1
+msgid "Correct answer"
+msgstr ""
+
+#: views/choice.html.php:1
+msgid "When selected go to:"
+msgstr ""
+
+#: views/choice.html.php:2
+msgid "Next question"
+msgstr ""
+
+#: views/choice.html.php:3
+msgid "Finalize quiz"
+msgstr ""
+
+#: views/choice.html.php:5
+msgid "- Select question -"
+msgstr ""
+
+#: views/choice.html.php:13
+msgid "Delete this choice"
+msgstr ""
+
+#: views/completed.html.php:2
+msgid "Users who submitted quiz \"%s\""
+msgstr ""
+
+#: views/completed.html.php:16
+msgid "Export files are currently delimited by \"%s\". You can change the delimiter at <a href=\"%s\">Chained Quiz Settings</a> page."
+msgstr ""
+
+#: views/completed.html.php:76
+msgid "Source: %s"
+msgstr ""
+
+#: views/completed.html.php:5
+msgid "Back to quizzes"
+msgstr ""
+
+#: views/completed.html.php:5
+msgid "Manage questions"
+msgstr ""
+
+#: views/completed.html.php:6
+msgid "Manage Results"
+msgstr ""
+
+#: views/completed.html.php:7
+msgid "Edit This Quiz"
+msgstr ""
+
+#: views/completed.html.php:10
+msgid "Please rate us 5 Stars!"
+msgstr ""
+
+#: views/completed.html.php:13
+msgid "Filter/search these records"
+msgstr ""
+
+#: views/completed.html.php:14
+msgid "Export CSV"
+msgstr ""
+
+#: views/completed.html.php:15
+msgid "Export with details"
+msgstr ""
+
+#: views/completed.html.php:23
+msgid "Username"
+msgstr ""
+
+#: views/completed.html.php:24
+msgid "Equals"
+msgstr ""
+
+#: views/completed.html.php:25
+msgid "Starts with"
+msgstr ""
+
+#: views/completed.html.php:26
+msgid "Ends with"
+msgstr ""
+
+#: views/completed.html.php:27
+msgid "Contains"
+msgstr ""
+
+#: views/completed.html.php:29
+msgid "Email"
+msgstr ""
+
+#: views/completed.html.php:35
+msgid "IP Address"
+msgstr ""
+
+#: views/completed.html.php:41
+msgid "Date Taken"
+msgstr ""
+
+#: views/completed.html.php:43
+msgid "Is before"
+msgstr ""
+
+#: views/completed.html.php:44
+msgid "Is after"
+msgstr ""
+
+#: views/completed.html.php:46
+msgid "Points received"
+msgstr ""
+
+#: views/completed.html.php:47
+msgid "Equal"
+msgstr ""
+
+#: views/completed.html.php:48
+msgid "Are less than"
+msgstr ""
+
+#: views/completed.html.php:49
+msgid "Are more than"
+msgstr ""
+
+#: views/completed.html.php:52
+msgid "Result equals:"
+msgstr ""
+
+#: views/completed.html.php:53
+msgid "- Any result -"
+msgstr ""
+
+#: views/completed.html.php:59
+msgid "Search/Filter"
+msgstr ""
+
+#: views/completed.html.php:60
+msgid "Clear Filters"
+msgstr ""
+
+#: views/completed.html.php:66
+msgid "User name, email or IP"
+msgstr ""
+
+#: views/completed.html.php:66
+msgid "Date/time"
+msgstr ""
+
+#: views/completed.html.php:78
+msgid "View details"
+msgstr ""
+
+#: views/completed.html.php:98
+msgid "previous page"
+msgstr ""
+
+#: views/completed.html.php:100
+msgid "next page"
+msgstr ""
+
+#: views/completed.html.php:103
+msgid "Show me a button to cleanup all submitted data on this quiz."
+msgstr ""
+
+#: views/completed.html.php:106
+msgid "These operations cannot be undone!"
+msgstr ""
+
+#: views/completed.html.php:107
+msgid "Cleanup all data"
+msgstr ""
+
+#: views/completed.html.php:116
+msgid "No one has submitted this quiz yet."
+msgstr ""
+
+#: views/display-quiz.html.php:3
+msgid "You need to be registered and logged in to take this quiz."
+msgstr ""
+
+#: views/display-quiz.html.php:4
+msgid "Log in"
+msgstr ""
+
+#: views/display-quiz.html.php:6
+msgid "or"
+msgstr ""
+
+#: views/display-quiz.html.php:6
+msgid "Register"
+msgstr ""
+
+#: views/display-quiz.html.php:19
+msgid "Sorry, you can take this quiz only %d times."
+msgstr ""
+
+#: views/display-quiz.html.php:49
+msgid "Go ahead"
+msgstr ""
+
+#: views/display-quiz.html.php:30
+msgid "Your email address:"
+msgstr ""
+
+#: views/integrations-arigato.html.php:2
+msgid "Integrate with Arigato Lite"
+msgstr ""
+
+#: views/integrations-arigato.html.php:6
+msgid "Here you can define which quizzes will automatically subscribe the respondents into your mailing list. Note that only quizzes which collect user email address are shown."
+msgstr ""
+
+#: views/integrations-arigato.html.php:8
+msgid "Add New Subscription Rule"
+msgstr ""
+
+#: views/integrations-arigato.html.php:12
+msgid "User completes"
+msgstr ""
+
+#: views/integrations-arigato.html.php:18
+msgid "with the following result:"
+msgstr ""
+
+#: views/integrations-arigato.html.php:28
+msgid "Add Rule"
+msgstr ""
+
+#: views/integrations-arigato.html.php:34
+msgid "Manage Existing Rules"
+msgstr ""
+
+#: views/integrations-arigato.html.php:41
+msgid "When user completes"
+msgstr ""
+
+#: views/integrations-arigato.html.php:59
+msgid "Save Rule"
+msgstr ""
+
+#: views/integrations-arigato.html.php:60
+msgid "Delete Rule"
+msgstr ""
+
+#: views/integrations-arigatopro.html.php:2
+msgid "Integrate with Arigato PRO"
+msgstr ""
+
+#: views/integrations-arigatopro.html.php:6
+msgid "Here you can define which quizzes will automatically subscribe the respondents into selected mailing lists. Note that only quizzes which collect user email address are shown."
+msgstr ""
+
+#: views/integrations-arigatopro.html.php:28
+msgid "subscribe them to mailing list"
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:2
+msgid "Integrate with MailChimp"
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:7
+msgid "Your MailChimp API Key:"
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:8
+msgid "Do not require email confirmation (Abusing this may cause your MailChimp account to be suspended.)"
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:9
+msgid "Save Settings"
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:14
+msgid "You will not be able to add any rules until you enter your MailChimp API Key."
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:18
+msgid "We couldn't retrieve any mailing lists from your MailChimp account."
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:20
+msgid "We got this error from MailChimp:"
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:22
+msgid "Raw MailChimp response (debug)"
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:26
+msgid "Here you can define which quizzes will automatically subscribe the respondents into selected audiences. Note that only quizzes which collect user email address are shown."
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:48
+msgid "subscribe them to audience"
+msgstr ""
+
+#: views/integrations-mailchimp.html.php:55
+msgid "and add these tags (optional)"
+msgstr ""
+
+#: views/integrations-tabs.html.php:2
+msgid "General Settings"
+msgstr ""
+
+#: views/integrations-tabs.html.php:3
+msgid "Arigato"
+msgstr ""
+
+#: views/integrations-tabs.html.php:4
+msgid "Arigato PRO"
+msgstr ""
+
+#: views/integrations-tabs.html.php:5
+msgid "MailChimp"
+msgstr ""
+
+#: views/integrations.html.php:2
+msgid "Integrations with newsletter services"
+msgstr ""
+
+#: views/integrations.html.php:6
+msgid "Here you can define integration with various newsletter and email marketing plugins and services. This means that a quiz is completed the email of the respondend can be subscribed to selected mailing lists. Currently supported:"
+msgstr ""
+
+#: views/integrations.html.php:8
+msgid "Arigato Autoresponder and Newsletter."
+msgstr ""
+
+#: views/integrations.html.php:9
+msgid "Arigato PRO Drip Marketing Suite"
+msgstr ""
+
+#: views/integrations.html.php:10
+msgid "MailCHimp"
+msgstr ""
+
+#: views/integrations.html.php:13
+msgid "Note that only quizzes which have the option \"Send email to user with their result\" selected can be integrated."
+msgstr ""
+
+#: views/integrations.html.php:17
+msgid "Integrate with Arigato"
+msgstr ""
+
+#: views/integrations.html.php:18
+msgid "The plugin Arigato is not installed."
+msgstr ""
+
+#: views/integrations.html.php:22
+msgid "The plugin Arigato PRO is not installed."
+msgstr ""
+
+#: views/integrations.html.php:26
+msgid "Save Integrations"
+msgstr ""
+
+#: views/options.html.php:37
+msgid "Go Ahead"
+msgstr ""
+
+#: views/options.html.php:2
+msgid "General Options"
+msgstr ""
+
+#: views/options.html.php:8
+msgid "Roles"
+msgstr ""
+
+#: views/options.html.php:10
+msgid "Roles that can manage quizzes"
+msgstr ""
+
+#: views/options.html.php:12
+msgid "By default only Administrator and Super admin can manage the quizzes. You can enable other roles here."
+msgstr ""
+
+#: views/options.html.php:18
+msgid "Only administrator or superadmin can change this!"
+msgstr ""
+
+#: views/options.html.php:21
+msgid "Email options"
+msgstr ""
+
+#: views/options.html.php:23
+msgid "Sender and subjects of the automated emails"
+msgstr ""
+
+#: views/options.html.php:25
+msgid "Sender name:"
+msgstr ""
+
+#: views/options.html.php:26
+msgid "Sender email:"
+msgstr ""
+
+#: views/options.html.php:27
+msgid "Subject of email sent to admin:"
+msgstr ""
+
+#: views/options.html.php:28
+msgid "Subject of email sent to quiz taker:"
+msgstr ""
+
+#: views/options.html.php:31
+msgid "User interface options"
+msgstr ""
+
+#: views/options.html.php:33
+msgid "Automatically hide the \"Go ahead\" button when possible (typically on \"single answer\" questions)."
+msgstr ""
+
+#: views/options.html.php:35
+msgid "Do not auto-scroll when going to the next question."
+msgstr ""
+
+#: views/options.html.php:37
+msgid "Text/Value of the \"Go ahead\" button:"
+msgstr ""
+
+#: views/options.html.php:40
+msgid "CSV Exports"
+msgstr ""
+
+#: views/options.html.php:42
+msgid "Field separator:"
+msgstr ""
+
+#: views/options.html.php:43
+msgid "Comma"
+msgstr ""
+
+#: views/options.html.php:44
+msgid "Semicolon"
+msgstr ""
+
+#: views/options.html.php:45
+msgid "TAB"
+msgstr ""
+
+#: views/options.html.php:47
+msgid "Add quotes around text fields (recommended)"
+msgstr ""
+
+#: views/options.html.php:50
+msgid "Other options"
+msgstr ""
+
+#: views/options.html.php:52
+msgid "Mask IP addresses for GDPR compliance."
+msgstr ""
+
+#: views/options.html.php:54
+msgid "Enable debug mode to see SQL errors. (Useful in case you have any problems)"
+msgstr ""
+
+#: views/options.html.php:56
+msgid "Save Options"
+msgstr ""
+
+#: views/question.html.php:2
+msgid "Add/Edit Question in \"%s\""
+msgstr ""
+
+#: views/question.html.php:23
+msgid "Your comments:"
+msgstr ""
+
+#: views/question.html.php:6
+msgid "Back to questions"
+msgstr ""
+
+#: views/question.html.php:12
+msgid "Question title"
+msgstr ""
+
+#: views/question.html.php:12
+msgid "for management purposes"
+msgstr ""
+
+#: views/question.html.php:13
+msgid "Question contents"
+msgstr ""
+
+#: views/question.html.php:14
+msgid "Question type:"
+msgstr ""
+
+#: views/question.html.php:15
+msgid "Radio buttons (one possible answer)"
+msgstr ""
+
+#: views/question.html.php:16
+msgid "Checkboxes (multiple possible answers)"
+msgstr ""
+
+#: views/question.html.php:17
+msgid "Text box (open-end, essay question)"
+msgstr ""
+
+#: views/question.html.php:20
+msgid "Automatically continue to the next question when a choice is selected"
+msgstr ""
+
+#: views/question.html.php:22
+msgid "Accept comments along with the answer."
+msgstr ""
+
+#: views/question.html.php:23
+msgid "Label before the comments field:"
+msgstr ""
+
+#: views/question.html.php:25
+msgid "Choices/Answers for this question"
+msgstr ""
+
+#: views/question.html.php:27
+msgid "Add more rows"
+msgstr ""
+
+#: views/question.html.php:39
+msgid "Save question and answers"
+msgstr ""
+
+#: views/question.html.php:69
+msgid "Please enter question title"
+msgstr ""
+
+#: views/questions.html.php:2
+msgid "Manage Questions in %s"
+msgstr ""
+
+#: views/questions.html.php:11
+msgid "Click here to add a new question"
+msgstr ""
+
+#: views/questions.html.php:15
+msgid "ID"
+msgstr ""
+
+#: views/questions.html.php:15
+msgid "Type"
+msgstr ""
+
+#: views/questions.html.php:16
+msgid "Edit / Delete"
+msgstr ""
+
+#: views/questions.html.php:23
+msgid "Move Up"
+msgstr ""
+
+#: views/questions.html.php:26
+msgid "Move Down"
+msgstr ""
+
+#: views/questions.html.php:35
+msgid "Did you know?"
+msgstr ""
+
+#: views/quiz.html.php:33
+msgid "Limit quiz attempts to %s. (Enter 0 for unlimited attempts.)"
+msgstr ""
+
+#: views/quiz.html.php:2
+msgid "Add/Edit Chained Quiz"
+msgstr ""
+
+#: views/quiz.html.php:8
+msgid "Manage Questions"
+msgstr ""
+
+#: views/quiz.html.php:9
+msgid "Manage Results / Outcomes"
+msgstr ""
+
+#: views/quiz.html.php:13
+msgid "Quiz Title"
+msgstr ""
+
+#: views/quiz.html.php:15
+msgid "Final Output"
+msgstr ""
+
+#: views/quiz.html.php:17
+msgid "This is the content that is shown to the user after they complete the quiz. The following variables can be used:"
+msgstr ""
+
+#: views/quiz.html.php:20
+msgid "- The result (grade) title"
+msgstr ""
+
+#: views/quiz.html.php:21
+msgid "- The result (grade) text/description"
+msgstr ""
+
+#: views/quiz.html.php:22
+msgid "- Points collected"
+msgstr ""
+
+#: views/quiz.html.php:23
+msgid "- The number of total questions answered"
+msgstr ""
+
+#: views/quiz.html.php:24
+msgid "- The number of correctly answered questions. Multiple choice questions will be considered correctly answered when the amount of points collected on them is positive."
+msgstr ""
+
+#: views/quiz.html.php:25
+msgid "- The percentage of correctly answered questions from all questions."
+msgstr ""
+
+#: views/quiz.html.php:26
+msgid "- A table with the questions, answers given by the user, correct / wrong info and points collected."
+msgstr ""
+
+#: views/quiz.html.php:27
+msgid "The user name of the logged in user - use it only if you require / expect logged in users. If the user is not logged in, the variable will display \"Guest\"."
+msgstr ""
+
+#: views/quiz.html.php:28
+msgid "The user email address if the user is logged in or email address has been requested with the option \"Send email to user\". Otherwise it will be empty."
+msgstr ""
+
+#: views/quiz.html.php:31
+msgid "Require user login to take this quiz."
+msgstr ""
+
+#: views/quiz.html.php:37
+msgid "Send me email when user completes this quiz. Send to this email address:"
+msgstr ""
+
+#: views/quiz.html.php:38
+msgid "You can enter multiple emails separated by comma"
+msgstr ""
+
+#: views/quiz.html.php:39
+msgid "Send email to user with their result. If the user is not logged in visitor an optional \"Enter email\" field will automatically appear above the quiz."
+msgstr ""
+
+#: views/quiz.html.php:41
+msgid "Providing email address is required to do the quiz."
+msgstr ""
+
+#: views/quiz.html.php:42
+msgid "Once the email address is provided, hide the field on next questions."
+msgstr ""
+
+#: views/quiz.html.php:47
+msgid "Set email contents (if you skip this, the final screen output will be used for emails)."
+msgstr ""
+
+#: views/quiz.html.php:52
+msgid "You can use the same variables as in the Final Output box"
+msgstr ""
+
+#: views/quiz.html.php:53
+msgid "By default this content is used for both the email sent to user, and the email sent to admin. You can however use the {{{split}}} tag to make the email contents different. The content before the {{{split}}} tag will be sent to the user and the content after the {{{split}}} tag - to the admin."
+msgstr ""
+
+#: views/quiz.html.php:57
+msgid "Save source URL when submitting the quiz (useful if you have published the quiz in multiple places on your site)."
+msgstr ""
+
+#: views/quiz.html.php:60
+msgid "Automatically publish this quiz in new post once I hit the \"Save\" button. (The new post will be auto-generated with the quiz title used for post title.)"
+msgstr ""
+
+#: views/quiz.html.php:63
+msgid "Save Quiz"
+msgstr ""
+
+#: views/quiz.html.php:77
+msgid "Title is required"
+msgstr ""
+
+#: views/results.html.php:2
+msgid "Manage Quiz Results/Outcomes"
+msgstr ""
+
+#: views/results.html.php:12
+msgid "Result title"
+msgstr ""
+
+#: views/results.html.php:13
+msgid "Result text/description"
+msgstr ""
+
+#: views/results.html.php:14
+msgid "Min. points:"
+msgstr ""
+
+#: views/results.html.php:15
+msgid "Max. points:"
+msgstr ""
+
+#: views/results.html.php:16
+msgid "Optional redirect URL"
+msgstr ""
+
+#: views/results.html.php:17
+msgid "If you enter this, the quiz will redirect to the URL instead of showing the \"Final Output\"."
+msgstr ""
+
+#: views/results.html.php:18
+msgid "Add Result"
+msgstr ""
+
+#: views/results.html.php:31
+msgid "Save Result"
+msgstr ""
+
+#: views/results.html.php:32
+msgid "Delete Result"
+msgstr ""
+
+#: views/results.html.php:48
+msgid "Please enter title"
+msgstr ""
+
+#: views/sharing-options.html.php:6
+msgid "You can use the shortcode %s to display Facebook share button on the \"Final screen\" on your quiz."
+msgstr ""
+
+#: views/sharing-options.html.php:7
+msgid "The social media buttons are provided by <a href=\"%s\" target=\"_blank\">Arbenting</a>. Feel free to replace them with other icons."
+msgstr ""
+
+#: views/sharing-options.html.php:2
+msgid "Chained Quiz Social Sharing"
+msgstr ""
+
+#: views/sharing-options.html.php:10
+msgid "Facebook and LinkedIn Sharing"
+msgstr ""
+
+#: views/sharing-options.html.php:12
+msgid "Your Facebook App ID:"
+msgstr ""
+
+#: views/sharing-options.html.php:12
+msgid "Get one here"
+msgstr ""
+
+#: views/sharing-options.html.php:13
+msgid "If you leave it empty, no Facebook share button will be generated."
+msgstr ""
+
+#: views/sharing-options.html.php:15
+msgid "Show LinkedIn button"
+msgstr ""
+
+#: views/sharing-options.html.php:17
+msgid "Title:"
+msgstr ""
+
+#: views/sharing-options.html.php:18
+msgid "Text:"
+msgstr ""
+
+#: views/sharing-options.html.php:19
+msgid "You can use the variables {{{quiz-name}}}, {{{url}}}, {{{result-title}}} and {{{result-description}}}."
+msgstr ""
+
+#: views/sharing-options.html.php:21
+msgid "If you leave title and text empty, result title and result description will be used respectively."
+msgstr ""
+
+#: views/sharing-options.html.php:23
+msgid "IMPORTANT: Facebook needs to be able to access your site to retrieve the social sharing data. If the site is on localhost or behind a htaccess login box sharing will not work properly."
+msgstr ""
+
+#: views/sharing-options.html.php:25
+msgid "Twitter Sharing Options:"
+msgstr ""
+
+#: views/sharing-options.html.php:27
+msgid "If you leave \"Tweet text\" empty the tweet text will be extracted from the result description. If it is empty, the result title will be used."
+msgstr ""
+
+#: views/sharing-options.html.php:29
+msgid "Show Tweet button"
+msgstr ""
+
+#: views/sharing-options.html.php:32
+msgid "Show count"
+msgstr ""
+
+#: views/sharing-options.html.php:33
+msgid "Via @"
+msgstr ""
+
+#: views/sharing-options.html.php:34
+msgid "Hashtag #"
+msgstr ""
+
+#: views/sharing-options.html.php:35
+msgid "Tweet text (No more than 140 chars):"
+msgstr ""
+
+#: views/sharing-options.html.php:36
+msgid "You can use the variables {{{quiz-name}}}, {{{result-title}}} and {{{result-description}}}."
+msgstr ""
+
+#: views/sharing-options.html.php:39
+msgid "Save All Settings"
+msgstr ""
+
+#: views/sidebar.html.php:6
+msgid "<b>WatuPRO</b> is general purpose quiz, survey and exam plugin with rich reporting features and free integration with many popular plugins and services."
+msgstr ""
+
+#: views/sidebar.html.php:8
+msgid "Just go ahead and"
+msgstr ""
+
+#: views/sidebar.html.php:8
+msgid "take the tour"
+msgstr ""
+
+#: views/sidebar.html.php:8
+msgid "or check the"
+msgstr ""
+
+#: views/sidebar.html.php:8
+msgid "online demo."
+msgstr ""
+
+#: views/sidebar.html.php:10
+msgid "Purchasing WatuPRO comes with <strong>60 days refund policy</strong>, one year <strong>free upgrades</strong> and one year <strong>free support</strong>."
+msgstr ""
+
+#: views/sidebar.html.php:15
+msgid "Need Support?"
+msgstr ""
+
+#: views/sidebar.html.php:17
+msgid "Please ask your question in the"
+msgstr ""
+
+#: views/sidebar.html.php:17
+msgid "support forum at Wordpress."
+msgstr ""
+
+#: views/sidebar.html.php:19
+msgid "Use the forum only for issues concerning the free Chained Quiz plugin. If you have a pre-sales question about Watu PRO please contact us"
+msgstr ""
+
+#: views/sidebar.html.php:19
+msgid "through our site."
+msgstr ""
